@@ -1,0 +1,860 @@
+,round_num,tick,side,team,hp,armor,is_alive,x,y,z,inventory,total_utility,equipment_value_freezetime_end,area_name,seconds,clock_time,t_alive,ct_alive,bomb_planted,map_name,utility_used,player
+77956,16,293384,T,Team2,100,100,True,-724,-3,50,['Pistols'],0.0,950,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player5
+77957,16,293400,T,Team2,100,100,True,-736,25,56,['Pistols'],0.0,950,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player5
+77958,16,293416,T,Team2,100,100,True,-746,53,61,['Pistols'],0.0,950,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player5
+77959,16,293432,T,Team2,100,100,True,-756,82,66,['Pistols'],0.0,950,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player5
+77960,16,293448,T,Team2,100,100,True,-769,109,73,['Pistols'],0.0,950,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player5
+77961,16,293464,T,Team2,100,100,True,-788,128,82,['Pistols'],0.0,950,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player5
+77962,16,293480,T,Team2,100,100,True,-810,148,93,['Pistols'],0.0,950,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player5
+77963,16,293496,T,Team2,100,100,True,-835,164,96,['Pistols'],0.0,950,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player5
+77964,16,293512,T,Team2,100,100,True,-861,178,96,['Pistols'],0.0,950,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player5
+77965,16,293528,T,Team2,100,100,True,-883,198,96,['Pistols'],0.0,950,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player5
+77966,16,293544,T,Team2,100,100,True,-902,221,96,['Pistols'],0.0,950,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player5
+77967,16,293560,T,Team2,100,100,True,-918,244,96,['Pistols'],0.0,950,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player5
+77968,16,293576,T,Team2,100,100,True,-921,249,96,['Pistols'],0.0,950,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player5
+77969,16,293592,T,Team2,100,100,True,-918,244,96,['Pistols'],0.0,950,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player5
+77970,16,293608,T,Team2,100,100,True,-923,251,96,['Pistols'],0.0,950,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player5
+77971,16,293624,T,Team2,100,100,True,-934,267,96,['Pistols'],0.0,950,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player5
+77972,16,293640,T,Team2,100,100,True,-948,288,96,['Pistols'],0.0,950,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player5
+77973,16,293656,T,Team2,100,100,True,-964,312,96,['Pistols'],0.0,950,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player5
+77974,16,293672,T,Team2,100,100,True,-982,335,96,['Pistols'],0.0,950,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player5
+77975,16,293688,T,Team2,100,100,True,-1004,354,96,['Pistols'],0.0,950,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player5
+77976,16,293704,T,Team2,100,100,True,-1025,375,96,['Pistols'],0.0,950,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player5
+77977,16,293720,T,Team2,100,100,True,-1046,397,93,['Pistols'],0.0,950,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player5
+77978,16,293736,T,Team2,100,100,True,-1067,418,83,['Pistols'],0.0,950,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player5
+77979,16,293752,T,Team2,100,100,True,-1088,439,72,['Pistols'],0.0,950,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player5
+77992,16,293960,T,Team2,100,100,True,-1137,299,48,['Pistols'],0.0,950,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player5
+77993,16,293976,T,Team2,100,100,True,-1124,298,54,['Pistols'],0.0,950,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player5
+77994,16,293992,T,Team2,100,100,True,-1110,298,61,['Pistols'],0.0,950,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player5
+77995,16,294008,T,Team2,100,100,True,-1099,305,67,['Pistols'],0.0,950,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player5
+77996,16,294024,T,Team2,100,100,True,-1090,316,71,['Pistols'],0.0,950,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player5
+77997,16,294040,T,Team2,100,100,True,-1085,336,74,['Pistols'],0.0,950,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player5
+77998,16,294056,T,Team2,100,100,True,-1085,350,74,['Pistols'],0.0,950,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player5
+77999,16,294072,T,Team2,100,100,True,-1080,351,76,['Pistols'],0.0,950,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player5
+78000,16,294088,T,Team2,100,100,True,-1070,351,81,['Pistols'],0.0,950,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player5
+78001,16,294104,T,Team2,100,100,True,-1064,351,84,['Pistols'],0.0,950,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player5
+78002,16,294120,T,Team2,100,100,True,-1062,352,85,['Pistols'],0.0,950,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player5
+78003,16,294136,T,Team2,100,100,True,-1056,363,88,['Pistols'],0.0,950,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player5
+78004,16,294152,T,Team2,100,100,True,-1059,381,86,['Pistols'],0.0,950,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player5
+78005,16,294168,T,Team2,100,100,True,-1071,402,80,['Pistols'],0.0,950,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player5
+78006,16,294184,T,Team2,100,100,True,-1079,415,76,['Pistols'],0.0,950,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player5
+78007,16,294200,T,Team2,100,100,True,-1080,416,76,['Pistols'],0.0,950,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player5
+78008,16,294216,T,Team2,100,100,True,-1075,411,79,['Pistols'],0.0,950,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player5
+78009,16,294232,T,Team2,100,100,True,-1072,408,80,['Pistols'],0.0,950,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player5
+78010,16,294248,T,Team2,100,100,True,-1064,400,84,['Pistols'],0.0,950,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player5
+78011,16,294264,T,Team2,100,100,True,-1055,391,88,['Pistols'],0.0,950,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player5
+78012,16,294280,T,Team2,100,100,True,-1060,396,86,['Pistols'],0.0,950,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player5
+78013,16,294296,T,Team2,100,100,True,-1059,396,86,['Pistols'],0.0,950,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player5
+78014,16,294312,T,Team2,100,100,True,-1052,387,90,['Pistols'],0.0,950,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player5
+78015,16,294328,T,Team2,97,98,True,-1055,390,89,['Pistols'],0.0,950,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player5
+78016,16,294344,T,Team2,97,98,True,-1061,397,86,['Pistols'],0.0,950,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player5
+78017,16,294360,T,Team2,97,98,True,-1056,391,88,['Pistols'],0.0,950,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player5
+78018,16,294376,T,Team2,97,98,True,-1053,376,90,['Pistols'],0.0,950,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player5
+78019,16,294392,T,Team2,97,98,True,-1055,358,88,['Pistols'],0.0,950,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player5
+78020,16,294408,T,Team2,97,98,True,-1064,341,84,['Pistols'],0.0,950,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player5
+78021,16,294424,T,Team2,97,98,True,-1073,321,80,['Pistols'],0.0,950,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player5
+78022,16,294440,T,Team2,97,98,True,-1085,303,74,['Pistols'],0.0,950,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player5
+78023,16,294456,T,Team2,97,98,True,-1095,293,68,['Pistols'],0.0,950,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player5
+78024,16,294472,T,Team2,97,98,True,-1102,287,65,['Pistols'],0.0,950,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player5
+78025,16,294488,T,Team2,97,98,True,-1110,283,61,['Pistols'],0.0,950,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player5
+78026,16,294504,T,Team2,97,98,True,-1119,278,57,['Pistols'],0.0,950,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player5
+78027,16,294520,T,Team2,97,98,True,-1133,273,50,['Pistols'],0.0,950,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player5
+81014,21,359112,T,Team2,74,94,True,-902,-296,96,"['Pistols', 'Rifle']",0.0,4600,BombsiteB,21,01:35,3,5,False,de_overpass,0.0,Player5
+81015,21,359128,T,Team2,48,88,True,-903,-289,96,"['Pistols', 'Rifle']",0.0,4600,BombsiteB,21,01:34,3,5,False,de_overpass,0.0,Player5
+85027,25,441436,T,Team2,95,98,True,-874,-304,96,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,30,01:25,4,5,False,de_overpass,0.0,Player5
+85028,25,441452,T,Team2,95,98,True,-869,-276,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,31,01:25,4,5,False,de_overpass,0.0,Player5
+85029,25,441468,T,Team2,95,98,True,-869,-249,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,31,01:25,4,5,False,de_overpass,0.0,Player5
+85030,25,441484,T,Team2,95,98,True,-872,-223,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,31,01:25,4,5,False,de_overpass,0.0,Player5
+85031,25,441500,T,Team2,95,98,True,-875,-198,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,31,01:25,3,5,False,de_overpass,0.0,Player5
+85032,25,441516,T,Team2,95,98,True,-876,-170,96,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,31,01:24,3,5,False,de_overpass,0.0,Player5
+85033,25,441532,T,Team2,95,98,True,-879,-145,96,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,31,01:24,3,5,False,de_overpass,0.0,Player5
+85034,25,441548,T,Team2,95,98,True,-882,-117,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,31,01:24,3,5,False,de_overpass,0.0,Player5
+85035,25,441564,T,Team2,69,92,True,-880,-94,96,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,31,01:24,3,5,False,de_overpass,0.0,Player5
+85036,25,441580,T,Team2,69,92,True,-880,-86,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:24,3,5,False,de_overpass,0.0,Player5
+85037,25,441596,T,Team2,69,92,True,-874,-79,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:24,3,5,False,de_overpass,0.0,Player5
+85038,25,441612,T,Team2,69,92,True,-866,-73,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:24,3,5,False,de_overpass,0.0,Player5
+85039,25,441628,T,Team2,69,92,True,-854,-70,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:24,3,5,False,de_overpass,0.0,Player5
+85040,25,441644,T,Team2,69,92,True,-843,-62,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:23,3,5,False,de_overpass,0.0,Player5
+85041,25,441660,T,Team2,69,92,True,-837,-50,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:23,3,5,False,de_overpass,0.0,Player5
+85042,25,441676,T,Team2,69,92,True,-828,-36,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:23,3,5,False,de_overpass,0.0,Player5
+85043,25,441692,T,Team2,69,92,True,-819,-22,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,32,01:23,3,5,False,de_overpass,0.0,Player5
+85044,25,441708,T,Team2,69,92,True,-809,-6,93,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:23,3,5,False,de_overpass,0.0,Player5
+85045,25,441724,T,Team2,69,92,True,-800,13,88,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:23,3,5,False,de_overpass,0.0,Player5
+85046,25,441740,T,Team2,69,92,True,-787,31,82,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:23,3,5,False,de_overpass,0.0,Player5
+85047,25,441756,T,Team2,69,92,True,-779,50,77,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:23,3,5,False,de_overpass,0.0,Player5
+85048,25,441772,T,Team2,17,80,True,-775,58,75,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:22,3,5,False,de_overpass,0.0,Player5
+85049,25,441788,T,Team2,17,80,True,-772,63,74,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,33,01:22,3,5,False,de_overpass,0.0,Player5
+86015,26,459804,T,Team2,100,100,True,-740,-122,58,"['Pistols', 'Rifle']",0.0,4200,BombsiteB,103,00:13,3,5,False,de_overpass,0.0,Player5
+86016,26,459820,T,Team2,100,100,True,-740,-122,58,"['Pistols', 'Rifle']",0.0,4200,BombsiteB,103,00:13,3,5,False,de_overpass,0.0,Player5
+87154,28,483148,T,Team2,100,100,True,-671,76,23,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,32,01:23,4,3,False,de_overpass,0.0,Player5
+87161,28,483260,T,Team2,100,100,True,-736,248,56,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player5
+87162,28,483276,T,Team2,100,100,True,-756,263,66,"['Pistols', 'Rifle']",1.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,-1.0,Player5
+87163,28,483292,T,Team2,100,100,True,-778,275,77,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player5
+87164,28,483308,T,Team2,100,100,True,-803,281,89,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player5
+87165,28,483324,T,Team2,100,100,True,-828,286,96,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player5
+87166,28,483340,T,Team2,100,100,True,-849,298,96,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player5
+88508,30,513852,T,Team2,100,100,True,-723,-14,49,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,39,01:17,2,4,False,de_overpass,0.0,Player5
+88509,30,513868,T,Team2,100,100,True,-750,-5,63,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,39,01:16,2,4,False,de_overpass,0.0,Player5
+88510,30,513884,T,Team2,100,100,True,-776,2,76,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,39,01:16,2,4,False,de_overpass,0.0,Player5
+88511,30,513900,T,Team2,100,100,True,-800,9,88,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,39,01:16,2,4,False,de_overpass,0.0,Player5
+88512,30,513916,T,Team2,100,100,True,-819,17,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,39,01:16,2,4,False,de_overpass,0.0,Player5
+88513,30,513932,T,Team2,100,100,True,-821,19,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:16,2,4,False,de_overpass,0.0,Player5
+88514,30,513948,T,Team2,100,100,True,-817,31,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:16,2,4,False,de_overpass,0.0,Player5
+88515,30,513964,T,Team2,100,100,True,-816,48,96,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:16,2,4,False,de_overpass,0.0,Player5
+88516,30,513980,T,Team2,100,100,True,-812,70,94,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,40,01:16,2,4,False,de_overpass,0.0,Player5
+88517,30,513996,T,Team2,100,100,True,-803,94,90,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:15,2,4,False,de_overpass,0.0,Player5
+88518,30,514012,T,Team2,100,100,True,-802,99,89,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:15,2,4,False,de_overpass,0.0,Player5
+88519,30,514028,T,Team2,100,100,True,-805,93,90,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:15,2,4,False,de_overpass,0.0,Player5
+88520,30,514044,T,Team2,100,100,True,-807,89,91,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,40,01:15,2,4,False,de_overpass,0.0,Player5
+88521,30,514060,T,Team2,100,100,True,-807,89,92,"['Pistols', 'Rifle']",0.0,3900,BombsiteB,41,01:15,2,4,False,de_overpass,0.0,Player5
+88522,30,514076,T,Team2,9,80,True,-808,88,92,"['Rifle', 'Pistols']",0.0,3900,BombsiteB,41,01:15,2,4,False,de_overpass,0.0,Player5
+100306,16,296856,T,Team2,100,100,True,-928,-295,96,['Pistols'],0.0,850,BombsiteB,21,00:19,4,2,True,de_overpass,0.0,Player7
+100307,16,296872,T,Team2,100,100,True,-919,-269,96,['Pistols'],0.0,850,BombsiteB,21,00:19,4,2,True,de_overpass,0.0,Player7
+100308,16,296888,T,Team2,100,100,True,-911,-241,96,['Pistols'],0.0,850,BombsiteB,21,00:19,4,1,True,de_overpass,0.0,Player7
+100309,16,296904,T,Team2,100,100,True,-903,-212,96,['Pistols'],0.0,850,BombsiteB,21,00:19,4,1,True,de_overpass,0.0,Player7
+100310,16,296920,T,Team2,100,100,True,-890,-185,96,['Pistols'],0.0,850,BombsiteB,22,00:19,4,1,True,de_overpass,0.0,Player7
+100311,16,296936,T,Team2,100,100,True,-875,-159,96,['Pistols'],0.0,850,BombsiteB,22,00:19,4,1,True,de_overpass,0.0,Player7
+100312,16,296952,T,Team2,100,100,True,-871,-146,96,['Pistols'],0.0,850,BombsiteB,22,00:19,4,1,True,de_overpass,0.0,Player7
+100313,16,296968,T,Team2,100,100,True,-871,-143,96,['Pistols'],0.0,850,BombsiteB,22,00:19,4,1,True,de_overpass,0.0,Player7
+100314,16,296984,T,Team2,100,100,True,-869,-132,96,['Pistols'],0.0,850,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player7
+100315,16,297000,T,Team2,100,100,True,-873,-132,96,['Pistols'],0.0,850,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player7
+100316,16,297016,T,Team2,100,100,True,-868,-122,96,['Pistols'],0.0,850,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player7
+100317,16,297032,T,Team2,100,100,True,-861,-111,96,['Pistols'],0.0,850,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player7
+100318,16,297048,T,Team2,100,100,True,-858,-106,96,['Pistols'],0.0,850,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player7
+100319,16,297064,T,Team2,100,100,True,-857,-105,96,['Pistols'],0.0,850,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player7
+100320,16,297080,T,Team2,100,100,True,-851,-95,96,['Pistols'],0.0,850,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player7
+100321,16,297096,T,Team2,100,100,True,-849,-92,96,['Pistols'],0.0,850,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player7
+100322,16,297112,T,Team2,100,100,True,-847,-89,96,['Pistols'],0.0,850,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player7
+100323,16,297128,T,Team2,100,100,True,-849,-92,96,['Pistols'],0.0,850,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player7
+100324,16,297144,T,Team2,100,100,True,-844,-84,96,['Pistols'],0.0,850,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player7
+100325,16,297160,T,Team2,100,100,True,-834,-67,96,['Pistols'],0.0,850,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player7
+100326,16,297176,T,Team2,100,100,True,-820,-45,96,['Pistols'],0.0,850,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player7
+100327,16,297192,T,Team2,100,100,True,-805,-19,90,['Pistols'],0.0,850,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player7
+100328,16,297208,T,Team2,100,100,True,-792,7,84,['Pistols'],0.0,850,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player7
+100329,16,297224,T,Team2,100,100,True,-789,34,83,['Pistols'],0.0,850,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player7
+100330,16,297240,T,Team2,100,100,True,-787,62,81,['Pistols'],0.0,850,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player7
+100331,16,297256,T,Team2,100,100,True,-788,92,82,['Pistols'],0.0,850,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player7
+100332,16,297272,T,Team2,100,100,True,-793,121,85,['Pistols'],0.0,850,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player7
+100333,16,297288,T,Team2,100,100,True,-793,150,84,['Pistols'],0.0,850,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player7
+100334,16,297304,T,Team2,100,100,True,-788,179,82,['Pistols'],0.0,850,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player7
+100335,16,297320,T,Team2,100,100,True,-790,185,83,['Pistols'],0.0,850,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player7
+100336,16,297336,T,Team2,100,100,True,-805,190,90,['Pistols'],0.0,850,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player7
+100337,16,297352,T,Team2,100,100,True,-822,199,96,['Pistols'],0.0,850,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player7
+100338,16,297368,T,Team2,87,93,True,-834,197,96,['Pistols'],0.0,850,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player7
+100339,16,297384,T,Team2,87,93,True,-839,190,96,['Pistols'],0.0,850,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player7
+100340,16,297400,T,Team2,87,93,True,-838,197,96,['Pistols'],0.0,850,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player7
+100341,16,297416,T,Team2,87,93,True,-840,191,96,['Pistols'],0.0,850,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player7
+100342,16,297432,T,Team2,87,93,True,-842,184,96,['Pistols'],0.0,850,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player7
+100343,16,297448,T,Team2,87,93,True,-839,194,96,['Pistols'],0.0,850,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player7
+100344,16,297464,T,Team2,87,93,True,-835,201,96,['Pistols'],0.0,850,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player7
+100345,16,297480,T,Team2,87,93,True,-834,202,96,['Pistols'],0.0,850,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player7
+100346,16,297496,T,Team2,87,93,True,-834,202,96,['Pistols'],0.0,850,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player7
+100347,16,297512,T,Team2,87,93,True,-835,197,96,['Pistols'],0.0,850,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player7
+100348,16,297528,T,Team2,87,93,True,-840,184,96,['Pistols'],0.0,850,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player7
+100349,16,297544,T,Team2,87,93,True,-841,182,96,['Pistols'],0.0,850,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player7
+100350,16,297560,T,Team2,87,93,True,-842,179,96,['Pistols'],0.0,850,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player7
+100351,16,297576,T,Team2,87,93,True,-841,175,96,['Pistols'],0.0,850,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player7
+100352,16,297592,T,Team2,87,93,True,-834,160,96,['Pistols'],0.0,850,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player7
+100353,16,297608,T,Team2,87,93,True,-825,140,96,['Pistols'],0.0,850,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player7
+100354,16,297624,T,Team2,87,93,True,-816,131,96,['Pistols'],0.0,850,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player7
+100355,16,297640,T,Team2,87,93,True,-815,118,96,['Pistols'],0.0,850,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player7
+100356,16,297656,T,Team2,87,93,True,-820,96,96,['Pistols'],0.0,850,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player7
+100357,16,297672,T,Team2,87,93,True,-825,69,96,['Pistols'],0.0,850,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player7
+100358,16,297688,T,Team2,87,93,True,-822,41,96,['Pistols'],0.0,850,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player7
+100359,16,297704,T,Team2,87,93,True,-820,14,96,['Pistols'],0.0,850,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player7
+100360,16,297720,T,Team2,87,93,True,-826,-16,96,['Pistols'],0.0,850,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player7
+100361,16,297736,T,Team2,87,93,True,-832,-37,96,['Pistols'],0.0,850,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player7
+100362,16,297752,T,Team2,87,93,True,-832,-40,96,['Pistols'],0.0,850,BombsiteB,28,00:12,4,1,True,de_overpass,0.0,Player7
+100363,16,297768,T,Team2,87,93,True,-840,-53,96,['Pistols'],0.0,850,BombsiteB,28,00:12,4,1,True,de_overpass,0.0,Player7
+100364,16,297785,T,Team2,87,93,True,-853,-72,96,['Pistols'],0.0,850,BombsiteB,28,00:12,4,0,True,de_overpass,0.0,Player7
+100365,16,297801,T,Team2,87,93,True,-869,-94,96,['Pistols'],0.0,850,BombsiteB,28,00:12,4,0,True,de_overpass,0.0,Player7
+100366,16,297817,T,Team2,87,93,True,-882,-119,96,['Pistols'],0.0,850,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player7
+100367,16,297833,T,Team2,87,93,True,-887,-147,96,['Pistols'],0.0,850,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player7
+100368,16,297849,T,Team2,87,93,True,-890,-177,96,['Pistols'],0.0,850,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player7
+100369,16,297865,T,Team2,87,93,True,-893,-209,96,['Pistols'],0.0,850,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player7
+100370,16,297881,T,Team2,87,93,True,-901,-237,96,['Pistols'],0.0,850,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player7
+100371,16,297897,T,Team2,87,93,True,-909,-267,96,['Pistols'],0.0,850,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player7
+100372,16,297913,T,Team2,87,93,True,-923,-296,96,['Pistols'],0.0,850,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player7
+109298,28,483324,T,Team2,100,100,True,-714,-16,45,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player7
+109299,28,483340,T,Team2,100,100,True,-737,-7,57,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player7
+109300,28,483356,T,Team2,100,100,True,-765,-2,71,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:22,3,3,False,de_overpass,0.0,Player7
+109301,28,483372,T,Team2,100,100,True,-788,-7,82,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:22,3,3,False,de_overpass,0.0,Player7
+109302,28,483388,T,Team2,100,100,True,-810,-19,93,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player7
+109303,28,483404,T,Team2,100,100,True,-832,-34,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player7
+109304,28,483420,T,Team2,100,100,True,-855,-48,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player7
+109305,28,483436,T,Team2,100,100,True,-871,-61,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player7
+109306,28,483452,T,Team2,100,100,True,-875,-57,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player7
+109307,28,483468,T,Team2,100,100,True,-869,-44,96,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player7
+109308,28,483484,T,Team2,100,100,True,-855,-30,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player7
+109309,28,483500,T,Team2,100,100,True,-840,-12,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player7
+109310,28,483516,T,Team2,100,100,True,-826,10,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:20,3,3,False,de_overpass,0.0,Player7
+109311,28,483532,T,Team2,100,100,True,-814,33,95,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:20,2,3,False,de_overpass,0.0,Player7
+109312,28,483548,T,Team2,100,100,True,-805,59,90,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:20,2,3,False,de_overpass,0.0,Player7
+109313,28,483564,T,Team2,100,100,True,-794,83,85,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,35,01:20,2,3,False,de_overpass,0.0,Player7
+109314,28,483580,T,Team2,100,100,True,-791,108,84,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,36,01:20,2,3,False,de_overpass,0.0,Player7
+109315,28,483596,T,Team2,100,100,True,-795,116,85,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,36,01:20,2,3,False,de_overpass,0.0,Player7
+109316,28,483612,T,Team2,100,100,True,-801,108,89,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,36,01:20,2,3,False,de_overpass,0.0,Player7
+109317,28,483628,T,Team2,100,100,True,-811,91,93,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,36,01:20,2,3,False,de_overpass,0.0,Player7
+109318,28,483644,T,Team2,100,100,True,-821,70,96,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,36,01:19,2,3,False,de_overpass,0.0,Player7
+109319,28,483660,T,Team2,100,100,True,-829,46,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,36,01:19,2,3,False,de_overpass,0.0,Player7
+109320,28,483676,T,Team2,100,100,True,-834,34,96,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,36,01:19,2,3,False,de_overpass,0.0,Player7
+109321,28,483692,T,Team2,100,100,True,-833,35,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,36,01:19,2,3,False,de_overpass,0.0,Player7
+109322,28,483708,T,Team2,100,100,True,-833,32,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:19,2,3,False,de_overpass,0.0,Player7
+109323,28,483724,T,Team2,100,100,True,-833,32,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:19,2,3,False,de_overpass,0.0,Player7
+109324,28,483740,T,Team2,100,100,True,-833,32,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:19,2,3,False,de_overpass,0.0,Player7
+109325,28,483756,T,Team2,100,100,True,-833,32,96,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,37,01:19,2,3,False,de_overpass,0.0,Player7
+109326,28,483772,T,Team2,100,100,True,-835,26,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:18,2,3,False,de_overpass,0.0,Player7
+109327,28,483788,T,Team2,100,100,True,-840,13,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:18,2,3,False,de_overpass,0.0,Player7
+109328,28,483804,T,Team2,100,100,True,-852,-5,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:18,2,3,False,de_overpass,0.0,Player7
+109329,28,483820,T,Team2,100,100,True,-867,-22,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,37,01:18,2,3,False,de_overpass,0.0,Player7
+109330,28,483836,T,Team2,100,100,True,-885,-40,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:18,2,2,False,de_overpass,0.0,Player7
+109331,28,483852,T,Team2,100,100,True,-902,-60,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:18,2,2,False,de_overpass,0.0,Player7
+109332,28,483868,T,Team2,100,100,True,-918,-81,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:18,2,2,False,de_overpass,0.0,Player7
+109333,28,483884,T,Team2,100,100,True,-935,-102,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:18,2,2,False,de_overpass,0.0,Player7
+109334,28,483900,T,Team2,100,100,True,-952,-123,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:17,2,2,False,de_overpass,0.0,Player7
+109335,28,483916,T,Team2,100,100,True,-963,-136,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:17,2,2,False,de_overpass,0.0,Player7
+109336,28,483932,T,Team2,100,100,True,-977,-138,96,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:17,2,2,False,de_overpass,0.0,Player7
+109337,28,483948,T,Team2,100,100,True,-998,-138,97,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,38,01:17,2,2,False,de_overpass,0.0,Player7
+109338,28,483964,T,Team2,100,100,True,-1022,-131,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:17,2,2,False,de_overpass,0.0,Player7
+109339,28,483980,T,Team2,100,100,True,-1049,-125,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:17,2,2,False,de_overpass,0.0,Player7
+109340,28,483996,T,Team2,100,100,True,-1078,-118,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:17,2,2,False,de_overpass,0.0,Player7
+109341,28,484012,T,Team2,100,100,True,-1106,-110,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:17,2,2,False,de_overpass,0.0,Player7
+109342,28,484028,T,Team2,100,100,True,-1134,-97,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player7
+109343,28,484044,T,Team2,100,100,True,-1157,-84,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player7
+109344,28,484060,T,Team2,100,100,True,-1166,-78,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player7
+109345,28,484076,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player7
+109346,28,484092,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player7
+109347,28,484108,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player7
+109348,28,484124,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player7
+109349,28,484140,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player7
+109350,28,484156,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player7
+109351,28,484172,T,Team2,100,100,True,-1166,-76,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player7
+109352,28,484188,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player7
+109353,28,484204,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player7
+109354,28,484220,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player7
+109355,28,484236,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player7
+109356,28,484252,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player7
+109357,28,484268,T,Team2,100,100,True,-1166,-76,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player7
+109358,28,484284,T,Team2,100,100,True,-1166,-76,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player7
+109359,28,484300,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player7
+109360,28,484316,T,Team2,100,100,True,-1166,-76,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player7
+109361,28,484332,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player7
+109362,28,484348,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player7
+109363,28,484364,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player7
+109364,28,484380,T,Team2,100,100,True,-1166,-76,98,"['Grenade', 'Pistols', 'Rifle']",1.0,4100,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player7
+109365,28,484396,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player7
+109366,28,484412,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player7
+109367,28,484428,T,Team2,100,100,True,-1166,-76,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player7
+109368,28,484444,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player7
+109369,28,484460,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player7
+109370,28,484476,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,43,01:13,2,2,False,de_overpass,0.0,Player7
+109371,28,484492,T,Team2,100,100,True,-1166,-76,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player7
+109372,28,484508,T,Team2,100,100,True,-1166,-77,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player7
+109373,28,484524,T,Team2,100,100,True,-1164,-78,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player7
+109374,28,484540,T,Team2,100,100,True,-1162,-80,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player7
+109375,28,484556,T,Team2,100,100,True,-1161,-83,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,1,00:40,2,2,True,de_overpass,0.0,Player7
+109376,28,484572,T,Team2,100,100,True,-1162,-86,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,1,00:40,2,2,True,de_overpass,0.0,Player7
+109377,28,484588,T,Team2,100,100,True,-1161,-88,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4100,BombsiteB,1,00:40,2,2,True,de_overpass,0.0,Player7
+109378,28,484604,T,Team2,100,100,True,-1162,-88,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,1,00:40,2,2,True,de_overpass,0.0,Player7
+109379,28,484620,T,Team2,100,100,True,-1162,-87,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player7
+109380,28,484636,T,Team2,100,100,True,-1162,-86,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player7
+109381,28,484652,T,Team2,100,100,True,-1163,-84,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4100,BombsiteB,1,00:39,2,2,True,de_overpass,1.0,Player7
+109382,28,484668,T,Team2,100,100,True,-1166,-84,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player7
+109383,28,484684,T,Team2,100,100,True,-1166,-84,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:39,2,2,True,de_overpass,0.0,Player7
+109384,28,484700,T,Team2,100,100,True,-1166,-84,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:39,2,2,True,de_overpass,0.0,Player7
+109385,28,484716,T,Team2,100,100,True,-1166,-84,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:39,2,2,True,de_overpass,0.0,Player7
+109386,28,484732,T,Team2,100,100,True,-1166,-85,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,2,00:39,2,2,True,de_overpass,0.0,Player7
+109387,28,484748,T,Team2,100,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:38,2,2,True,de_overpass,0.0,Player7
+109388,28,484764,T,Team2,100,100,True,-1166,-88,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:38,2,2,True,de_overpass,0.0,Player7
+109389,28,484780,T,Team2,100,100,True,-1166,-89,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:38,2,2,True,de_overpass,0.0,Player7
+109390,28,484796,T,Team2,100,100,True,-1166,-90,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,2,00:38,2,2,True,de_overpass,0.0,Player7
+109391,28,484812,T,Team2,100,100,True,-1166,-90,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,3,00:38,2,2,True,de_overpass,0.0,Player7
+109392,28,484828,T,Team2,100,100,True,-1166,-89,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:38,2,2,True,de_overpass,0.0,Player7
+109393,28,484844,T,Team2,100,100,True,-1164,-79,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:38,2,2,True,de_overpass,0.0,Player7
+109394,28,484860,T,Team2,100,100,True,-1158,-59,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:38,2,2,True,de_overpass,0.0,Player7
+109395,28,484876,T,Team2,100,100,True,-1155,-46,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:37,2,2,True,de_overpass,0.0,Player7
+109396,28,484892,T,Team2,100,100,True,-1158,-49,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:37,2,2,True,de_overpass,0.0,Player7
+109397,28,484908,T,Team2,100,100,True,-1156,-57,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:37,2,2,True,de_overpass,0.0,Player7
+109398,28,484924,T,Team2,100,100,True,-1147,-57,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,3,00:37,2,2,True,de_overpass,0.0,Player7
+109399,28,484940,T,Team2,100,100,True,-1137,-58,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:37,2,2,True,de_overpass,0.0,Player7
+109400,28,484956,T,Team2,100,100,True,-1124,-58,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:37,2,2,True,de_overpass,0.0,Player7
+109401,28,484972,T,Team2,100,100,True,-1111,-53,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:37,2,2,True,de_overpass,0.0,Player7
+109402,28,484988,T,Team2,100,100,True,-1103,-42,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:37,2,2,True,de_overpass,0.0,Player7
+109403,28,485004,T,Team2,100,100,True,-1097,-29,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:36,2,2,True,de_overpass,0.0,Player7
+109404,28,485020,T,Team2,100,100,True,-1093,-16,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:36,2,2,True,de_overpass,0.0,Player7
+109405,28,485036,T,Team2,100,100,True,-1089,2,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:36,2,2,True,de_overpass,0.0,Player7
+109406,28,485052,T,Team2,100,100,True,-1078,19,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,4,00:36,2,2,True,de_overpass,0.0,Player7
+109407,28,485068,T,Team2,100,100,True,-1070,31,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:36,2,2,True,de_overpass,0.0,Player7
+109408,28,485084,T,Team2,73,100,True,-1069,35,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:36,2,2,True,de_overpass,0.0,Player7
+109409,28,485100,T,Team2,73,100,True,-1070,38,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:36,2,2,True,de_overpass,0.0,Player7
+109410,28,485116,T,Team2,73,100,True,-1071,40,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:36,2,2,True,de_overpass,0.0,Player7
+109411,28,485132,T,Team2,73,100,True,-1070,43,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:35,2,2,True,de_overpass,0.0,Player7
+109412,28,485148,T,Team2,73,100,True,-1067,46,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:35,2,2,True,de_overpass,0.0,Player7
+109413,28,485164,T,Team2,73,100,True,-1064,49,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:35,2,2,True,de_overpass,0.0,Player7
+109414,28,485180,T,Team2,73,100,True,-1064,54,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,5,00:35,2,2,True,de_overpass,0.0,Player7
+109415,28,485196,T,Team2,73,100,True,-1062,58,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:35,2,2,True,de_overpass,0.0,Player7
+109416,28,485212,T,Team2,73,100,True,-1063,60,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:35,2,2,True,de_overpass,0.0,Player7
+109417,28,485228,T,Team2,73,100,True,-1062,73,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:35,2,2,True,de_overpass,0.0,Player7
+109418,28,485244,T,Team2,73,100,True,-1055,91,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:35,2,2,True,de_overpass,0.0,Player7
+109419,28,485260,T,Team2,73,100,True,-1044,110,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:34,2,2,True,de_overpass,0.0,Player7
+109420,28,485276,T,Team2,73,100,True,-1037,122,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:34,2,2,True,de_overpass,0.0,Player7
+109421,28,485292,T,Team2,73,100,True,-1040,118,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,6,00:34,2,2,True,de_overpass,0.0,Player7
+109422,28,485308,T,Team2,73,100,True,-1039,119,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,6,00:34,2,2,True,de_overpass,0.0,Player7
+109423,28,485324,T,Team2,73,100,True,-1035,128,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,7,00:34,2,2,True,de_overpass,0.0,Player7
+109424,28,485340,T,Team2,73,100,True,-1036,127,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,7,00:34,2,2,True,de_overpass,0.0,Player7
+109425,28,485356,T,Team2,73,100,True,-1041,116,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,7,00:34,2,2,True,de_overpass,0.0,Player7
+109426,28,485372,T,Team2,73,100,True,-1048,97,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,7,00:34,2,2,True,de_overpass,0.0,Player7
+109427,28,485388,T,Team2,73,100,True,-1054,74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,7,00:33,2,2,True,de_overpass,0.0,Player7
+109428,28,485404,T,Team2,73,100,True,-1062,50,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,7,00:33,2,2,True,de_overpass,0.0,Player7
+109429,28,485420,T,Team2,73,100,True,-1070,26,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,7,00:33,2,2,True,de_overpass,0.0,Player7
+109430,28,485436,T,Team2,73,100,True,-1074,9,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,7,00:33,2,2,True,de_overpass,0.0,Player7
+109431,28,485452,T,Team2,73,100,True,-1078,-4,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:33,2,2,True,de_overpass,0.0,Player7
+109432,28,485468,T,Team2,73,100,True,-1078,-18,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,8,00:33,2,2,True,de_overpass,0.0,Player7
+109433,28,485484,T,Team2,73,100,True,-1080,-32,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:33,2,2,True,de_overpass,0.0,Player7
+109434,28,485500,T,Team2,73,100,True,-1081,-46,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:33,2,2,True,de_overpass,0.0,Player7
+109435,28,485516,T,Team2,73,100,True,-1082,-60,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:32,2,2,True,de_overpass,0.0,Player7
+109436,28,485532,T,Team2,73,100,True,-1083,-74,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:32,2,2,True,de_overpass,0.0,Player7
+109437,28,485548,T,Team2,73,100,True,-1088,-86,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,8,00:32,2,2,True,de_overpass,0.0,Player7
+109438,28,485564,T,Team2,73,100,True,-1094,-93,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,8,00:32,2,2,True,de_overpass,0.0,Player7
+109439,28,485580,T,Team2,73,100,True,-1100,-93,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:32,2,2,True,de_overpass,0.0,Player7
+109440,28,485596,T,Team2,73,100,True,-1102,-92,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,9,00:32,2,2,True,de_overpass,0.0,Player7
+109441,28,485612,T,Team2,73,100,True,-1104,-91,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:32,2,2,True,de_overpass,0.0,Player7
+109442,28,485628,T,Team2,73,100,True,-1113,-83,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:32,2,2,True,de_overpass,0.0,Player7
+109443,28,485644,T,Team2,73,100,True,-1117,-82,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:31,2,2,True,de_overpass,0.0,Player7
+109444,28,485660,T,Team2,73,100,True,-1117,-82,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:31,2,2,True,de_overpass,0.0,Player7
+109445,28,485676,T,Team2,73,100,True,-1113,-76,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,9,00:31,2,2,True,de_overpass,0.0,Player7
+109446,28,485692,T,Team2,73,100,True,-1107,-72,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,9,00:31,2,2,True,de_overpass,0.0,Player7
+109447,28,485708,T,Team2,73,100,True,-1106,-73,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:31,2,2,True,de_overpass,0.0,Player7
+109448,28,485724,T,Team2,73,100,True,-1106,-72,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:31,2,2,True,de_overpass,0.0,Player7
+109449,28,485740,T,Team2,73,100,True,-1110,-70,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:31,2,2,True,de_overpass,0.0,Player7
+109450,28,485756,T,Team2,73,100,True,-1110,-70,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:31,2,2,True,de_overpass,0.0,Player7
+109451,28,485772,T,Team2,73,100,True,-1114,-67,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:30,2,2,True,de_overpass,0.0,Player7
+109452,28,485788,T,Team2,73,100,True,-1122,-60,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,10,00:30,2,2,True,de_overpass,0.0,Player7
+109453,28,485804,T,Team2,73,100,True,-1130,-58,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,10,00:30,2,2,True,de_overpass,0.0,Player7
+109454,28,485820,T,Team2,73,100,True,-1129,-64,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,10,00:30,2,2,True,de_overpass,0.0,Player7
+109455,28,485836,T,Team2,73,100,True,-1123,-73,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:30,2,2,True,de_overpass,0.0,Player7
+109456,28,485852,T,Team2,73,100,True,-1115,-85,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:30,2,2,True,de_overpass,0.0,Player7
+109457,28,485868,T,Team2,73,100,True,-1107,-96,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:30,2,2,True,de_overpass,0.0,Player7
+109458,28,485884,T,Team2,73,100,True,-1105,-98,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:30,2,2,True,de_overpass,0.0,Player7
+109459,28,485900,T,Team2,73,100,True,-1105,-98,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,11,00:29,2,2,True,de_overpass,0.0,Player7
+109460,28,485916,T,Team2,73,100,True,-1109,-91,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,11,00:29,2,2,True,de_overpass,0.0,Player7
+109461,28,485932,T,Team2,73,100,True,-1115,-79,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:29,2,2,True,de_overpass,0.0,Player7
+109462,28,485948,T,Team2,73,100,True,-1120,-69,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,11,00:29,2,2,True,de_overpass,0.0,Player7
+109463,28,485964,T,Team2,73,100,True,-1117,-74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:29,2,2,True,de_overpass,0.0,Player7
+109464,28,485980,T,Team2,73,100,True,-1110,-87,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,12,00:29,2,2,True,de_overpass,0.0,Player7
+109465,28,485996,T,Team2,73,100,True,-1104,-100,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:29,2,2,True,de_overpass,0.0,Player7
+109466,28,486012,T,Team2,73,100,True,-1099,-111,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:29,2,2,True,de_overpass,0.0,Player7
+109467,28,486028,T,Team2,73,100,True,-1100,-109,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:28,2,2,True,de_overpass,0.0,Player7
+109468,28,486044,T,Team2,73,100,True,-1103,-98,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:28,2,2,True,de_overpass,0.0,Player7
+109469,28,486060,T,Team2,73,100,True,-1106,-85,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,12,00:28,2,2,True,de_overpass,0.0,Player7
+109470,28,486076,T,Team2,73,100,True,-1108,-74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,12,00:28,2,2,True,de_overpass,0.0,Player7
+109471,28,486092,T,Team2,73,100,True,-1109,-74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:28,2,2,True,de_overpass,0.0,Player7
+109472,28,486108,T,Team2,73,100,True,-1109,-74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:28,2,2,True,de_overpass,0.0,Player7
+109473,28,486124,T,Team2,73,100,True,-1108,-74,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:28,2,2,True,de_overpass,0.0,Player7
+109474,28,486140,T,Team2,73,100,True,-1102,-69,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:28,2,2,True,de_overpass,0.0,Player7
+109475,28,486156,T,Team2,73,100,True,-1098,-58,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:27,2,2,True,de_overpass,0.0,Player7
+109476,28,486172,T,Team2,73,100,True,-1091,-46,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,13,00:27,2,2,True,de_overpass,0.0,Player7
+109477,28,486188,T,Team2,73,100,True,-1083,-35,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:27,2,2,True,de_overpass,0.0,Player7
+109478,28,486204,T,Team2,73,100,True,-1074,-24,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,13,00:27,2,2,True,de_overpass,0.0,Player7
+109479,28,486220,T,Team2,73,100,True,-1067,-12,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:27,2,2,True,de_overpass,0.0,Player7
+109480,28,486236,T,Team2,73,100,True,-1064,1,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:27,2,2,True,de_overpass,0.0,Player7
+109481,28,486252,T,Team2,73,100,True,-1063,15,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:27,2,2,True,de_overpass,0.0,Player7
+109482,28,486268,T,Team2,73,100,True,-1064,30,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:27,2,2,True,de_overpass,0.0,Player7
+109483,28,486284,T,Team2,73,100,True,-1059,49,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:26,2,2,True,de_overpass,0.0,Player7
+109484,28,486300,T,Team2,73,100,True,-1057,57,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:26,2,2,True,de_overpass,0.0,Player7
+109485,28,486316,T,Team2,73,100,True,-1061,50,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:26,2,2,True,de_overpass,0.0,Player7
+109486,28,486332,T,Team2,73,100,True,-1071,35,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,14,00:26,2,2,True,de_overpass,0.0,Player7
+109487,28,486348,T,Team2,73,100,True,-1081,15,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:26,2,2,True,de_overpass,0.0,Player7
+109488,28,486364,T,Team2,73,100,True,-1086,-2,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:26,2,2,True,de_overpass,0.0,Player7
+109489,28,486380,T,Team2,73,100,True,-1090,-15,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:26,2,2,True,de_overpass,0.0,Player7
+109490,28,486396,T,Team2,73,100,True,-1093,-28,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:26,2,2,True,de_overpass,0.0,Player7
+109491,28,486412,T,Team2,73,100,True,-1096,-42,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:25,2,2,True,de_overpass,0.0,Player7
+109492,28,486428,T,Team2,73,100,True,-1098,-56,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,15,00:25,2,2,True,de_overpass,0.0,Player7
+109493,28,486444,T,Team2,73,100,True,-1097,-70,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:25,2,2,True,de_overpass,0.0,Player7
+109494,28,486460,T,Team2,73,100,True,-1095,-82,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,15,00:25,2,2,True,de_overpass,0.0,Player7
+109495,28,486476,T,Team2,73,100,True,-1096,-83,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,16,00:25,2,2,True,de_overpass,0.0,Player7
+109496,28,486492,T,Team2,73,100,True,-1097,-83,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,16,00:25,2,2,True,de_overpass,0.0,Player7
+109497,28,486508,T,Team2,73,100,True,-1097,-83,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,16,00:25,2,2,True,de_overpass,0.0,Player7
+109498,28,486524,T,Team2,73,100,True,-1096,-85,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,16,00:25,2,2,True,de_overpass,0.0,Player7
+109499,28,486540,T,Team2,73,100,True,-1094,-85,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,16,00:24,2,2,True,de_overpass,0.0,Player7
+109500,28,486556,T,Team2,73,100,True,-1092,-82,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,16,00:24,2,2,True,de_overpass,0.0,Player7
+109501,28,486572,T,Team2,73,100,True,-1092,-80,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,16,00:24,2,2,True,de_overpass,0.0,Player7
+109502,28,486588,T,Team2,73,100,True,-1093,-77,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,16,00:24,2,2,True,de_overpass,0.0,Player7
+109503,28,486604,T,Team2,73,100,True,-1093,-75,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:24,2,2,True,de_overpass,0.0,Player7
+109504,28,486620,T,Team2,73,100,True,-1090,-86,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,17,00:24,2,2,True,de_overpass,0.0,Player7
+109505,28,486636,T,Team2,73,100,True,-1085,-103,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:24,2,2,True,de_overpass,0.0,Player7
+109506,28,486652,T,Team2,73,100,True,-1086,-101,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:24,2,2,True,de_overpass,0.0,Player7
+109507,28,486668,T,Team2,73,100,True,-1089,-89,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:23,2,2,True,de_overpass,0.0,Player7
+109508,28,486684,T,Team2,73,100,True,-1092,-79,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:23,2,2,True,de_overpass,0.0,Player7
+109509,28,486700,T,Team2,73,100,True,-1093,-79,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:23,2,2,True,de_overpass,0.0,Player7
+109510,28,486716,T,Team2,73,100,True,-1093,-79,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,17,00:23,2,2,True,de_overpass,0.0,Player7
+109511,28,486732,T,Team2,73,100,True,-1093,-79,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,18,00:23,2,2,True,de_overpass,0.0,Player7
+109512,28,486748,T,Team2,73,100,True,-1097,-82,99,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,18,00:23,2,2,True,de_overpass,0.0,Player7
+109513,28,486764,T,Team2,73,100,True,-1107,-83,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:23,2,2,True,de_overpass,0.0,Player7
+109514,28,486780,T,Team2,73,100,True,-1114,-78,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:23,2,2,True,de_overpass,0.0,Player7
+109515,28,486796,T,Team2,73,100,True,-1115,-75,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:22,2,2,True,de_overpass,0.0,Player7
+109516,28,486812,T,Team2,73,100,True,-1109,-65,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:22,2,2,True,de_overpass,0.0,Player7
+109517,28,486828,T,Team2,73,100,True,-1100,-54,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:22,2,2,True,de_overpass,0.0,Player7
+109518,28,486844,T,Team2,73,100,True,-1091,-43,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,18,00:22,2,2,True,de_overpass,0.0,Player7
+109519,28,486860,T,Team2,73,100,True,-1085,-31,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:22,2,2,True,de_overpass,0.0,Player7
+109520,28,486876,T,Team2,73,100,True,-1082,-17,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:22,2,2,True,de_overpass,0.0,Player7
+109521,28,486892,T,Team2,73,100,True,-1085,-12,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:22,2,2,True,de_overpass,0.0,Player7
+109522,28,486908,T,Team2,73,100,True,-1085,-9,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:22,2,2,True,de_overpass,0.0,Player7
+109523,28,486924,T,Team2,73,100,True,-1088,-6,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:21,2,2,True,de_overpass,0.0,Player7
+109524,28,486940,T,Team2,73,100,True,-1098,-15,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:21,2,2,True,de_overpass,0.0,Player7
+109525,28,486956,T,Team2,73,100,True,-1108,-25,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:21,2,2,True,de_overpass,0.0,Player7
+109526,28,486972,T,Team2,73,100,True,-1117,-36,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,19,00:21,2,2,True,de_overpass,0.0,Player7
+109527,28,486988,T,Team2,73,100,True,-1125,-47,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:21,2,2,True,de_overpass,0.0,Player7
+109528,28,487004,T,Team2,73,100,True,-1132,-59,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,20,00:21,2,2,True,de_overpass,0.0,Player7
+109529,28,487020,T,Team2,73,100,True,-1140,-71,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:21,2,2,True,de_overpass,0.0,Player7
+109530,28,487036,T,Team2,73,100,True,-1150,-80,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:21,2,2,True,de_overpass,0.0,Player7
+109531,28,487052,T,Team2,73,100,True,-1163,-85,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:20,2,2,True,de_overpass,0.0,Player7
+109532,28,487068,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:20,2,2,True,de_overpass,0.0,Player7
+109533,28,487084,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:20,2,2,True,de_overpass,0.0,Player7
+109534,28,487100,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,20,00:20,2,2,True,de_overpass,0.0,Player7
+109535,28,487116,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:20,2,2,True,de_overpass,0.0,Player7
+109536,28,487132,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:20,2,2,True,de_overpass,0.0,Player7
+109537,28,487148,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:20,2,2,True,de_overpass,0.0,Player7
+109538,28,487164,T,Team2,73,100,True,-1166,-86,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:20,2,2,True,de_overpass,0.0,Player7
+109539,28,487180,T,Team2,73,100,True,-1166,-85,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:19,2,2,True,de_overpass,0.0,Player7
+109540,28,487196,T,Team2,73,100,True,-1162,-75,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:19,2,2,True,de_overpass,0.0,Player7
+109541,28,487212,T,Team2,73,100,True,-1150,-61,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,21,00:19,1,2,True,de_overpass,0.0,Player7
+109542,28,487228,T,Team2,73,100,True,-1135,-46,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,21,00:19,1,2,True,de_overpass,0.0,Player7
+109543,28,487244,T,Team2,73,100,True,-1133,-44,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:19,1,2,True,de_overpass,0.0,Player7
+109544,28,487260,T,Team2,73,100,True,-1138,-50,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:19,1,2,True,de_overpass,0.0,Player7
+109545,28,487276,T,Team2,73,100,True,-1136,-48,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:19,1,2,True,de_overpass,0.0,Player7
+109546,28,487292,T,Team2,73,100,True,-1135,-47,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:19,1,2,True,de_overpass,0.0,Player7
+109547,28,487308,T,Team2,73,100,True,-1137,-51,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:18,1,2,True,de_overpass,0.0,Player7
+109548,28,487324,T,Team2,73,100,True,-1138,-65,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:18,1,2,True,de_overpass,0.0,Player7
+109549,28,487340,T,Team2,73,100,True,-1140,-85,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:18,1,2,True,de_overpass,0.0,Player7
+109550,28,487356,T,Team2,73,100,True,-1145,-97,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,22,00:18,1,2,True,de_overpass,0.0,Player7
+109568,28,487644,T,Team2,73,100,True,-1166,-95,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,25,00:16,1,2,True,de_overpass,0.0,Player7
+109569,28,487660,T,Team2,73,100,True,-1166,-94,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,25,00:16,1,2,True,de_overpass,0.0,Player7
+109570,28,487676,T,Team2,73,100,True,-1166,-93,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,25,00:16,1,2,True,de_overpass,0.0,Player7
+109571,28,487692,T,Team2,73,100,True,-1166,-93,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,25,00:15,1,2,True,de_overpass,0.0,Player7
+109572,28,487708,T,Team2,73,100,True,-1166,-93,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,25,00:15,1,2,True,de_overpass,0.0,Player7
+109573,28,487724,T,Team2,73,100,True,-1166,-93,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,25,00:15,1,2,True,de_overpass,0.0,Player7
+109574,28,487740,T,Team2,73,100,True,-1166,-93,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,25,00:15,1,2,True,de_overpass,0.0,Player7
+109575,28,487756,T,Team2,73,100,True,-1166,-92,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:15,1,2,True,de_overpass,0.0,Player7
+109576,28,487772,T,Team2,73,100,True,-1165,-89,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:15,1,2,True,de_overpass,0.0,Player7
+109577,28,487788,T,Team2,73,100,True,-1162,-81,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:15,1,2,True,de_overpass,0.0,Player7
+109578,28,487804,T,Team2,73,100,True,-1152,-68,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:15,1,2,True,de_overpass,0.0,Player7
+109579,28,487820,T,Team2,73,100,True,-1139,-52,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:14,1,2,True,de_overpass,0.0,Player7
+109580,28,487836,T,Team2,73,100,True,-1137,-49,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,26,00:14,1,2,True,de_overpass,0.0,Player7
+109581,28,487852,T,Team2,73,100,True,-1137,-49,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:14,1,2,True,de_overpass,0.0,Player7
+109582,28,487868,T,Team2,73,100,True,-1145,-58,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,26,00:14,1,2,True,de_overpass,0.0,Player7
+109583,28,487884,T,Team2,73,100,True,-1154,-68,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:14,1,2,True,de_overpass,0.0,Player7
+109584,28,487900,T,Team2,73,100,True,-1161,-80,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:14,1,2,True,de_overpass,0.0,Player7
+109585,28,487916,T,Team2,73,100,True,-1159,-93,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,27,00:14,1,2,True,de_overpass,0.0,Player7
+109586,28,487932,T,Team2,73,100,True,-1145,-105,98,"['Rifle', 'Pistols']",0.0,4100,BombsiteB,27,00:14,1,2,True,de_overpass,0.0,Player7
+109587,28,487948,T,Team2,73,100,True,-1125,-116,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:13,1,2,True,de_overpass,0.0,Player7
+109588,28,487964,T,Team2,73,100,True,-1109,-133,98,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:13,1,2,True,de_overpass,0.0,Player7
+109589,28,487980,T,Team2,73,100,True,-1098,-155,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:13,1,2,True,de_overpass,0.0,Player7
+109590,28,487996,T,Team2,73,100,True,-1092,-180,99,"['Pistols', 'Rifle']",0.0,4100,BombsiteB,27,00:13,1,2,True,de_overpass,0.0,Player7
+110658,30,514124,T,Team2,65,90,True,-733,304,54,"['Grenade', 'Pistols', 'Rifle']",1.0,3900,BombsiteB,41,01:14,1,4,False,de_overpass,0.0,Player7
+110659,30,514140,T,Team2,65,90,True,-744,304,60,"['Pistols', 'Rifle', 'Grenade']",1.0,3900,BombsiteB,41,01:14,1,4,False,de_overpass,0.0,Player7
+110660,30,514156,T,Team2,65,90,True,-746,303,61,"['Pistols', 'Rifle', 'Grenade']",1.0,3900,BombsiteB,41,01:14,1,4,False,de_overpass,0.0,Player7
+110661,30,514172,T,Team2,65,90,True,-750,303,63,"['Rifle', 'Grenade', 'Pistols']",1.0,3900,BombsiteB,41,01:14,1,4,False,de_overpass,0.0,Player7
+110662,30,514188,T,Team2,65,90,True,-751,300,63,"['Grenade', 'Pistols', 'Rifle']",1.0,3900,BombsiteB,42,01:14,1,4,False,de_overpass,0.0,Player7
+110663,30,514204,T,Team2,39,84,True,-758,295,67,"['Grenade', 'Pistols', 'Rifle']",1.0,3900,BombsiteB,42,01:14,1,4,False,de_overpass,0.0,Player7
+110664,30,514220,T,Team2,39,84,True,-763,290,70,"['Pistols', 'Rifle', 'Grenade']",1.0,3900,BombsiteB,42,01:14,1,4,False,de_overpass,0.0,Player7
+144362,16,293496,T,Team2,69,0,True,-700,123,38,['Pistols'],0.0,700,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player6
+144363,16,293512,T,Team2,69,0,True,-720,101,48,['Pistols'],0.0,700,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player6
+144364,16,293528,T,Team2,69,0,True,-738,76,57,['Pistols'],0.0,700,BombsiteB,52,01:04,4,3,False,de_overpass,0.0,Player6
+144365,16,293544,T,Team2,69,0,True,-755,52,65,['Pistols'],0.0,700,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player6
+144366,16,293560,T,Team2,69,0,True,-776,33,76,['Pistols'],0.0,700,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player6
+144367,16,293576,T,Team2,69,0,True,-798,14,87,['Pistols'],0.0,700,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player6
+144368,16,293592,T,Team2,69,0,True,-824,0,96,['Pistols'],0.0,700,BombsiteB,52,01:03,4,3,False,de_overpass,0.0,Player6
+144369,16,293608,T,Team2,69,0,True,-850,-16,96,['Pistols'],0.0,700,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player6
+144370,16,293624,T,Team2,69,0,True,-878,-29,96,['Pistols'],0.0,700,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player6
+144371,16,293640,T,Team2,69,0,True,-908,-37,96,['Pistols'],0.0,700,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player6
+144372,16,293656,T,Team2,69,0,True,-937,-46,96,['Pistols'],0.0,700,BombsiteB,53,01:03,4,3,False,de_overpass,0.0,Player6
+144373,16,293672,T,Team2,69,0,True,-966,-56,96,['Pistols'],0.0,700,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player6
+144374,16,293688,T,Team2,69,0,True,-997,-62,97,['Pistols'],0.0,700,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player6
+144375,16,293704,T,Team2,69,0,True,-1026,-71,99,['Pistols'],0.0,700,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player6
+144376,16,293720,T,Team2,69,0,True,-1057,-77,99,['Pistols'],0.0,700,BombsiteB,53,01:02,4,3,False,de_overpass,0.0,Player6
+144377,16,293736,T,Team2,69,0,True,-1088,-81,99,['Pistols'],0.0,700,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player6
+144378,16,293752,T,Team2,69,0,True,-1119,-83,98,['Pistols'],0.0,700,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player6
+144379,16,293768,T,Team2,69,0,True,-1148,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player6
+144380,16,293784,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:02,4,3,False,de_overpass,0.0,Player6
+144381,16,293800,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:01,4,3,False,de_overpass,0.0,Player6
+144382,16,293816,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:01,4,3,False,de_overpass,0.0,Player6
+144383,16,293832,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:01,4,3,False,de_overpass,0.0,Player6
+144384,16,293848,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,54,01:01,4,3,False,de_overpass,0.0,Player6
+144385,16,293864,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,01:01,4,3,False,de_overpass,0.0,Player6
+144386,16,293880,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,01:01,4,3,False,de_overpass,0.0,Player6
+144387,16,293896,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,01:01,4,3,False,de_overpass,0.0,Player6
+144388,16,293912,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,01:01,4,3,False,de_overpass,0.0,Player6
+144389,16,293928,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player6
+144390,16,293944,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player6
+144391,16,293960,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player6
+144392,16,293976,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,55,00:60,4,3,False,de_overpass,0.0,Player6
+144393,16,293992,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player6
+144394,16,294008,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player6
+144395,16,294024,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player6
+144396,16,294040,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:60,4,3,False,de_overpass,0.0,Player6
+144397,16,294056,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player6
+144398,16,294072,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player6
+144399,16,294088,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player6
+144400,16,294104,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,56,00:59,4,3,False,de_overpass,0.0,Player6
+144401,16,294120,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player6
+144402,16,294136,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player6
+144403,16,294152,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,57,00:59,4,3,False,de_overpass,0.0,Player6
+144404,16,294168,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player6
+144405,16,294184,T,Team2,69,0,True,-1150,-84,98,['Pistols'],0.0,700,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player6
+144406,16,294200,T,Team2,69,0,True,-1149,-84,98,['Pistols'],0.0,700,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player6
+144407,16,294216,T,Team2,69,0,True,-1146,-87,98,['Pistols'],0.0,700,BombsiteB,0,00:40,4,3,True,de_overpass,0.0,Player6
+144408,16,294232,T,Team2,69,0,True,-1145,-86,98,['Pistols'],0.0,700,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player6
+144409,16,294248,T,Team2,69,0,True,-1147,-84,98,['Pistols'],0.0,700,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player6
+144410,16,294264,T,Team2,69,0,True,-1149,-84,98,['Pistols'],0.0,700,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player6
+144411,16,294280,T,Team2,69,0,True,-1151,-85,98,['Pistols'],0.0,700,BombsiteB,1,00:40,4,3,True,de_overpass,0.0,Player6
+144412,16,294296,T,Team2,69,0,True,-1150,-85,98,['Pistols'],0.0,700,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player6
+144413,16,294312,T,Team2,69,0,True,-1150,-87,98,['Pistols'],0.0,700,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player6
+144414,16,294328,T,Team2,69,0,True,-1148,-89,98,['Pistols'],0.0,700,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player6
+144415,16,294344,T,Team2,69,0,True,-1146,-89,98,['Pistols'],0.0,700,BombsiteB,1,00:39,4,3,True,de_overpass,0.0,Player6
+144416,16,294360,T,Team2,69,0,True,-1143,-89,98,['Pistols'],0.0,700,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player6
+144417,16,294376,T,Team2,69,0,True,-1139,-89,98,['Pistols'],0.0,700,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player6
+144418,16,294392,T,Team2,69,0,True,-1134,-90,98,['Pistols'],0.0,700,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player6
+144419,16,294408,T,Team2,69,0,True,-1133,-91,98,['Pistols'],0.0,700,BombsiteB,2,00:39,4,3,True,de_overpass,0.0,Player6
+144420,16,294424,T,Team2,69,0,True,-1133,-91,98,['Pistols'],0.0,700,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player6
+144421,16,294440,T,Team2,69,0,True,-1133,-91,98,['Pistols'],0.0,700,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player6
+144422,16,294456,T,Team2,69,0,True,-1135,-94,98,['Pistols'],0.0,700,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player6
+144423,16,294472,T,Team2,69,0,True,-1139,-100,98,['Pistols'],0.0,700,BombsiteB,2,00:38,4,3,True,de_overpass,0.0,Player6
+144424,16,294488,T,Team2,69,0,True,-1143,-101,98,['Pistols'],0.0,700,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player6
+144425,16,294504,T,Team2,69,0,True,-1143,-101,98,['Pistols'],0.0,700,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player6
+144426,16,294520,T,Team2,69,0,True,-1143,-101,98,['Pistols'],0.0,700,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player6
+144427,16,294536,T,Team2,69,0,True,-1143,-101,98,['Pistols'],0.0,700,BombsiteB,3,00:38,4,3,True,de_overpass,0.0,Player6
+144428,16,294552,T,Team2,69,0,True,-1143,-101,98,['Pistols'],0.0,700,BombsiteB,3,00:37,4,3,True,de_overpass,0.0,Player6
+144429,16,294568,T,Team2,69,0,True,-1142,-102,98,['Pistols'],0.0,700,BombsiteB,3,00:37,4,3,True,de_overpass,0.0,Player6
+144430,16,294584,T,Team2,69,0,True,-1142,-102,98,['Pistols'],0.0,700,BombsiteB,3,00:37,4,3,True,de_overpass,0.0,Player6
+144431,16,294600,T,Team2,69,0,True,-1142,-102,98,['Pistols'],0.0,700,BombsiteB,3,00:37,4,3,True,de_overpass,0.0,Player6
+144432,16,294616,T,Team2,69,0,True,-1142,-102,98,['Pistols'],0.0,700,BombsiteB,4,00:37,4,3,True,de_overpass,0.0,Player6
+144433,16,294632,T,Team2,69,0,True,-1142,-102,98,['Pistols'],0.0,700,BombsiteB,4,00:37,4,3,True,de_overpass,0.0,Player6
+144434,16,294648,T,Team2,69,0,True,-1145,-103,98,['Pistols'],0.0,700,BombsiteB,4,00:37,4,3,True,de_overpass,0.0,Player6
+144435,16,294664,T,Team2,69,0,True,-1150,-104,98,['Pistols'],0.0,700,BombsiteB,4,00:37,4,3,True,de_overpass,0.0,Player6
+144469,16,295208,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,8,00:32,4,3,True,de_overpass,0.0,Player6
+144470,16,295224,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,8,00:32,4,3,True,de_overpass,0.0,Player6
+144471,16,295240,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,8,00:32,4,3,True,de_overpass,0.0,Player6
+144472,16,295256,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,9,00:32,4,3,True,de_overpass,0.0,Player6
+144473,16,295272,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,9,00:32,4,3,True,de_overpass,0.0,Player6
+144474,16,295288,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,9,00:32,4,3,True,de_overpass,0.0,Player6
+144475,16,295304,T,Team2,69,0,True,-1152,-105,98,['Pistols'],0.0,700,BombsiteB,9,00:32,4,3,True,de_overpass,0.0,Player6
+144476,16,295320,T,Team2,69,0,True,-1151,-105,98,['Pistols'],0.0,700,BombsiteB,9,00:31,4,3,True,de_overpass,0.0,Player6
+144477,16,295336,T,Team2,69,0,True,-1147,-106,98,['Pistols'],0.0,700,BombsiteB,9,00:31,4,3,True,de_overpass,0.0,Player6
+144478,16,295352,T,Team2,69,0,True,-1140,-107,98,['Pistols'],0.0,700,BombsiteB,9,00:31,4,3,True,de_overpass,0.0,Player6
+144479,16,295368,T,Team2,69,0,True,-1137,-111,98,['Pistols'],0.0,700,BombsiteB,9,00:31,4,3,True,de_overpass,0.0,Player6
+144480,16,295384,T,Team2,69,0,True,-1126,-122,98,['Pistols'],0.0,700,BombsiteB,10,00:31,4,3,True,de_overpass,0.0,Player6
+144481,16,295400,T,Team2,69,0,True,-1116,-141,99,['Pistols'],0.0,700,BombsiteB,10,00:31,4,3,True,de_overpass,0.0,Player6
+144482,16,295416,T,Team2,69,0,True,-1111,-149,99,['Pistols'],0.0,700,BombsiteB,10,00:31,4,3,True,de_overpass,0.0,Player6
+144483,16,295432,T,Team2,69,0,True,-1111,-147,99,['Pistols'],0.0,700,BombsiteB,10,00:31,4,3,True,de_overpass,0.0,Player6
+144484,16,295448,T,Team2,69,0,True,-1110,-133,98,['Pistols'],0.0,700,BombsiteB,10,00:30,4,3,True,de_overpass,0.0,Player6
+144485,16,295464,T,Team2,69,0,True,-1115,-119,98,['Pistols'],0.0,700,BombsiteB,10,00:30,4,3,True,de_overpass,0.0,Player6
+144486,16,295480,T,Team2,69,0,True,-1119,-119,98,['Pistols'],0.0,700,BombsiteB,10,00:30,4,3,True,de_overpass,0.0,Player6
+144487,16,295496,T,Team2,69,0,True,-1120,-119,98,['Pistols'],0.0,700,BombsiteB,10,00:30,4,3,True,de_overpass,0.0,Player6
+144488,16,295512,T,Team2,69,0,True,-1119,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:30,4,3,True,de_overpass,0.0,Player6
+144489,16,295528,T,Team2,69,0,True,-1119,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:30,4,3,True,de_overpass,0.0,Player6
+144490,16,295544,T,Team2,69,0,True,-1119,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:30,4,3,True,de_overpass,0.0,Player6
+144491,16,295560,T,Team2,69,0,True,-1119,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:30,4,3,True,de_overpass,0.0,Player6
+144492,16,295576,T,Team2,69,0,True,-1119,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:29,4,3,True,de_overpass,0.0,Player6
+144493,16,295592,T,Team2,69,0,True,-1120,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:29,4,3,True,de_overpass,0.0,Player6
+144494,16,295608,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:29,4,3,True,de_overpass,0.0,Player6
+144495,16,295624,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,11,00:29,4,3,True,de_overpass,0.0,Player6
+144496,16,295640,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:29,4,3,True,de_overpass,0.0,Player6
+144497,16,295656,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:29,4,3,True,de_overpass,0.0,Player6
+144498,16,295672,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:29,4,3,True,de_overpass,0.0,Player6
+144499,16,295688,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:29,4,3,True,de_overpass,0.0,Player6
+144500,16,295704,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:28,4,3,True,de_overpass,0.0,Player6
+144501,16,295720,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:28,4,3,True,de_overpass,0.0,Player6
+144502,16,295736,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:28,4,3,True,de_overpass,0.0,Player6
+144503,16,295752,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,12,00:28,4,3,True,de_overpass,0.0,Player6
+144504,16,295768,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:28,4,3,True,de_overpass,0.0,Player6
+144505,16,295784,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:28,4,3,True,de_overpass,0.0,Player6
+144506,16,295800,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:28,4,3,True,de_overpass,0.0,Player6
+144507,16,295816,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:28,4,3,True,de_overpass,0.0,Player6
+144508,16,295832,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:27,4,3,True,de_overpass,0.0,Player6
+144509,16,295848,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:27,4,3,True,de_overpass,0.0,Player6
+144510,16,295864,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:27,4,3,True,de_overpass,0.0,Player6
+144511,16,295880,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,13,00:27,4,3,True,de_overpass,0.0,Player6
+144512,16,295896,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:27,4,3,True,de_overpass,0.0,Player6
+144513,16,295912,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:27,4,3,True,de_overpass,0.0,Player6
+144514,16,295928,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:27,4,3,True,de_overpass,0.0,Player6
+144515,16,295944,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:27,4,3,True,de_overpass,0.0,Player6
+144516,16,295960,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:26,4,3,True,de_overpass,0.0,Player6
+144517,16,295976,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:26,4,3,True,de_overpass,0.0,Player6
+144518,16,295992,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:26,4,3,True,de_overpass,0.0,Player6
+144519,16,296008,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,14,00:26,4,3,True,de_overpass,0.0,Player6
+144520,16,296024,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,15,00:26,4,3,True,de_overpass,0.0,Player6
+144521,16,296040,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,15,00:26,4,3,True,de_overpass,0.0,Player6
+144522,16,296056,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,15,00:26,4,3,True,de_overpass,0.0,Player6
+144523,16,296072,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,15,00:26,4,3,True,de_overpass,0.0,Player6
+144524,16,296088,T,Team2,69,0,True,-1122,-122,98,['Pistols'],0.0,700,BombsiteB,15,00:25,4,3,True,de_overpass,0.0,Player6
+144525,16,296104,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,15,00:25,4,3,True,de_overpass,0.0,Player6
+144526,16,296120,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,15,00:25,4,3,True,de_overpass,0.0,Player6
+144527,16,296136,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,15,00:25,4,3,True,de_overpass,0.0,Player6
+144528,16,296152,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:25,4,3,True,de_overpass,0.0,Player6
+144529,16,296168,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:25,4,3,True,de_overpass,0.0,Player6
+144530,16,296184,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:25,4,3,True,de_overpass,0.0,Player6
+144531,16,296200,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:25,4,3,True,de_overpass,0.0,Player6
+144532,16,296216,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:24,4,3,True,de_overpass,0.0,Player6
+144533,16,296232,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:24,4,3,True,de_overpass,0.0,Player6
+144534,16,296248,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:24,4,3,True,de_overpass,0.0,Player6
+144535,16,296264,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,16,00:24,4,3,True,de_overpass,0.0,Player6
+144536,16,296280,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:24,4,3,True,de_overpass,0.0,Player6
+144537,16,296296,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:24,4,3,True,de_overpass,0.0,Player6
+144538,16,296312,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:24,4,3,True,de_overpass,0.0,Player6
+144539,16,296328,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:24,4,3,True,de_overpass,0.0,Player6
+144540,16,296344,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:23,4,3,True,de_overpass,0.0,Player6
+144541,16,296360,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:23,4,3,True,de_overpass,0.0,Player6
+144542,16,296376,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:23,4,3,True,de_overpass,0.0,Player6
+144543,16,296392,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,17,00:23,4,3,True,de_overpass,0.0,Player6
+144544,16,296408,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,18,00:23,4,3,True,de_overpass,0.0,Player6
+144545,16,296424,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,18,00:23,4,3,True,de_overpass,0.0,Player6
+144546,16,296440,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,18,00:23,4,3,True,de_overpass,0.0,Player6
+144547,16,296456,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,18,00:23,4,3,True,de_overpass,0.0,Player6
+144548,16,296472,T,Team2,69,0,True,-1123,-123,98,['Pistols'],0.0,700,BombsiteB,18,00:22,4,3,True,de_overpass,0.0,Player6
+144549,16,296488,T,Team2,69,0,True,-1123,-132,98,['Pistols'],0.0,700,BombsiteB,18,00:22,4,3,True,de_overpass,0.0,Player6
+144551,16,296520,T,Team2,69,0,True,-1123,-138,98,['Pistols'],0.0,700,BombsiteB,18,00:22,4,3,True,de_overpass,0.0,Player6
+144552,16,296536,T,Team2,69,0,True,-1123,-121,98,['Pistols'],0.0,700,BombsiteB,19,00:22,4,3,True,de_overpass,0.0,Player6
+144553,16,296552,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:22,4,3,True,de_overpass,0.0,Player6
+144554,16,296568,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:22,4,2,True,de_overpass,0.0,Player6
+144555,16,296584,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:22,4,2,True,de_overpass,0.0,Player6
+144556,16,296600,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:21,4,2,True,de_overpass,0.0,Player6
+144557,16,296616,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:21,4,2,True,de_overpass,0.0,Player6
+144558,16,296632,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:21,4,2,True,de_overpass,0.0,Player6
+144559,16,296648,T,Team2,69,0,True,-1123,-120,98,['Pistols'],0.0,700,BombsiteB,19,00:21,4,2,True,de_overpass,0.0,Player6
+144560,16,296664,T,Team2,69,0,True,-1124,-121,98,['Pistols'],0.0,700,BombsiteB,20,00:21,4,2,True,de_overpass,0.0,Player6
+144561,16,296680,T,Team2,69,0,True,-1128,-120,98,['Pistols'],0.0,700,BombsiteB,20,00:21,4,2,True,de_overpass,0.0,Player6
+144562,16,296696,T,Team2,69,0,True,-1128,-120,98,['Pistols'],0.0,700,BombsiteB,20,00:21,4,2,True,de_overpass,0.0,Player6
+144563,16,296712,T,Team2,69,0,True,-1122,-123,98,['Pistols'],0.0,700,BombsiteB,20,00:21,4,2,True,de_overpass,0.0,Player6
+144564,16,296728,T,Team2,69,0,True,-1119,-124,98,['Pistols'],0.0,700,BombsiteB,20,00:20,4,2,True,de_overpass,0.0,Player6
+144565,16,296744,T,Team2,69,0,True,-1117,-123,98,['Pistols'],0.0,700,BombsiteB,20,00:20,4,2,True,de_overpass,0.0,Player6
+144566,16,296760,T,Team2,69,0,True,-1107,-113,98,['Pistols'],0.0,700,BombsiteB,20,00:20,4,2,True,de_overpass,0.0,Player6
+144567,16,296776,T,Team2,69,0,True,-1091,-97,99,['Pistols'],0.0,700,BombsiteB,20,00:20,4,2,True,de_overpass,0.0,Player6
+144568,16,296792,T,Team2,69,0,True,-1086,-92,99,['Pistols'],0.0,700,BombsiteB,21,00:20,4,2,True,de_overpass,0.0,Player6
+144569,16,296808,T,Team2,69,0,True,-1089,-94,99,['Pistols'],0.0,700,BombsiteB,21,00:20,4,2,True,de_overpass,0.0,Player6
+144570,16,296824,T,Team2,69,0,True,-1090,-96,99,['Pistols'],0.0,700,BombsiteB,21,00:20,4,2,True,de_overpass,0.0,Player6
+144571,16,296840,T,Team2,69,0,True,-1100,-108,99,['Pistols'],0.0,700,BombsiteB,21,00:20,4,2,True,de_overpass,0.0,Player6
+144572,16,296856,T,Team2,69,0,True,-1105,-128,98,['Pistols'],0.0,700,BombsiteB,21,00:19,4,2,True,de_overpass,0.0,Player6
+144573,16,296872,T,Team2,69,0,True,-1110,-154,99,['Pistols'],0.0,700,BombsiteB,21,00:19,4,2,True,de_overpass,0.0,Player6
+144579,16,296968,T,Team2,69,0,True,-1107,-148,99,['Pistols'],0.0,700,BombsiteB,22,00:19,4,1,True,de_overpass,0.0,Player6
+144580,16,296984,T,Team2,69,0,True,-1114,-123,98,['Pistols'],0.0,700,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player6
+144581,16,297000,T,Team2,69,0,True,-1113,-98,98,['Pistols'],0.0,700,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player6
+144582,16,297016,T,Team2,69,0,True,-1103,-73,98,['Pistols'],0.0,700,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player6
+144583,16,297032,T,Team2,69,0,True,-1100,-64,98,['Pistols'],0.0,700,BombsiteB,22,00:18,4,1,True,de_overpass,0.0,Player6
+144584,16,297048,T,Team2,69,0,True,-1099,-61,99,['Pistols'],0.0,700,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player6
+144585,16,297064,T,Team2,69,0,True,-1091,-48,99,['Pistols'],0.0,700,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player6
+144586,16,297080,T,Team2,69,0,True,-1089,-26,99,['Pistols'],0.0,700,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player6
+144587,16,297096,T,Team2,69,0,True,-1090,1,98,['Pistols'],0.0,700,BombsiteB,23,00:18,4,1,True,de_overpass,0.0,Player6
+144588,16,297112,T,Team2,69,0,True,-1089,29,98,['Pistols'],0.0,700,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player6
+144589,16,297128,T,Team2,69,0,True,-1080,56,98,['Pistols'],0.0,700,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player6
+144590,16,297144,T,Team2,69,0,True,-1068,83,98,['Pistols'],0.0,700,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player6
+144591,16,297160,T,Team2,69,0,True,-1054,110,99,['Pistols'],0.0,700,BombsiteB,23,00:17,4,1,True,de_overpass,0.0,Player6
+144592,16,297176,T,Team2,69,0,True,-1036,132,99,['Pistols'],0.0,700,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player6
+144593,16,297192,T,Team2,69,0,True,-1011,148,99,['Pistols'],0.0,700,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player6
+144594,16,297208,T,Team2,69,0,True,-985,162,96,['Pistols'],0.0,700,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player6
+144595,16,297224,T,Team2,69,0,True,-958,175,96,['Pistols'],0.0,700,BombsiteB,24,00:17,4,1,True,de_overpass,0.0,Player6
+144596,16,297240,T,Team2,69,0,True,-931,188,96,['Pistols'],0.0,700,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player6
+144597,16,297256,T,Team2,69,0,True,-904,201,96,['Pistols'],0.0,700,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player6
+144598,16,297272,T,Team2,69,0,True,-877,214,96,['Pistols'],0.0,700,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player6
+144599,16,297288,T,Team2,69,0,True,-850,228,96,['Pistols'],0.0,700,BombsiteB,24,00:16,4,1,True,de_overpass,0.0,Player6
+144600,16,297304,T,Team2,69,0,True,-824,242,96,['Pistols'],0.0,700,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player6
+144601,16,297320,T,Team2,69,0,True,-800,259,88,['Pistols'],0.0,700,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player6
+144602,16,297336,T,Team2,69,0,True,-791,281,84,['Pistols'],0.0,700,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player6
+144603,16,297352,T,Team2,69,0,True,-796,292,86,['Pistols'],0.0,700,BombsiteB,25,00:16,4,1,True,de_overpass,0.0,Player6
+144604,16,297368,T,Team2,69,0,True,-801,283,89,['Pistols'],0.0,700,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player6
+144605,16,297384,T,Team2,69,0,True,-808,264,92,['Pistols'],0.0,700,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player6
+144606,16,297400,T,Team2,69,0,True,-816,240,96,['Pistols'],0.0,700,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player6
+144607,16,297416,T,Team2,69,0,True,-818,233,96,['Pistols'],0.0,700,BombsiteB,25,00:15,4,1,True,de_overpass,0.0,Player6
+144608,16,297432,T,Team2,69,0,True,-816,243,96,['Pistols'],0.0,700,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player6
+144609,16,297448,T,Team2,69,0,True,-816,240,96,['Pistols'],0.0,700,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player6
+144610,16,297464,T,Team2,69,0,True,-821,233,96,['Pistols'],0.0,700,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player6
+144611,16,297480,T,Team2,69,0,True,-821,239,96,['Pistols'],0.0,700,BombsiteB,26,00:15,4,1,True,de_overpass,0.0,Player6
+144612,16,297496,T,Team2,69,0,True,-817,255,96,['Pistols'],0.0,700,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player6
+144613,16,297512,T,Team2,69,0,True,-818,253,96,['Pistols'],0.0,700,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player6
+144614,16,297528,T,Team2,69,0,True,-818,253,96,['Pistols'],0.0,700,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player6
+144615,16,297544,T,Team2,69,0,True,-818,255,96,['Pistols'],0.0,700,BombsiteB,26,00:14,4,1,True,de_overpass,0.0,Player6
+144616,16,297560,T,Team2,69,0,True,-817,257,96,['Pistols'],0.0,700,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player6
+144617,16,297576,T,Team2,69,0,True,-814,269,95,['Pistols'],0.0,700,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player6
+144618,16,297592,T,Team2,69,0,True,-814,266,95,['Pistols'],0.0,700,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player6
+144619,16,297608,T,Team2,69,0,True,-815,263,96,['Pistols'],0.0,700,BombsiteB,27,00:14,4,1,True,de_overpass,0.0,Player6
+144620,16,297624,T,Team2,69,0,True,-816,262,96,['Pistols'],0.0,700,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player6
+144621,16,297640,T,Team2,69,0,True,-820,248,96,['Pistols'],0.0,700,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player6
+144622,16,297656,T,Team2,69,0,True,-820,246,96,['Pistols'],0.0,700,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player6
+144623,16,297672,T,Team2,69,0,True,-823,237,96,['Pistols'],0.0,700,BombsiteB,27,00:13,4,1,True,de_overpass,0.0,Player6
+144624,16,297688,T,Team2,69,0,True,-828,220,96,['Pistols'],0.0,700,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player6
+144625,16,297704,T,Team2,69,0,True,-829,218,96,['Pistols'],0.0,700,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player6
+144626,16,297720,T,Team2,69,0,True,-832,210,96,['Pistols'],0.0,700,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player6
+144627,16,297736,T,Team2,69,0,True,-836,194,96,['Pistols'],0.0,700,BombsiteB,28,00:13,4,1,True,de_overpass,0.0,Player6
+144628,16,297752,T,Team2,69,0,True,-830,179,96,['Pistols'],0.0,700,BombsiteB,28,00:12,4,1,True,de_overpass,0.0,Player6
+144629,16,297768,T,Team2,69,0,True,-821,157,96,['Pistols'],0.0,700,BombsiteB,28,00:12,4,1,True,de_overpass,0.0,Player6
+144630,16,297785,T,Team2,69,0,True,-811,131,94,['Pistols'],0.0,700,BombsiteB,28,00:12,4,0,True,de_overpass,0.0,Player6
+144631,16,297801,T,Team2,69,0,True,-803,120,90,['Pistols'],0.0,700,BombsiteB,28,00:12,4,0,True,de_overpass,0.0,Player6
+144632,16,297817,T,Team2,69,0,True,-805,104,90,['Pistols'],0.0,700,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player6
+144633,16,297833,T,Team2,69,0,True,-802,101,89,['Pistols'],0.0,700,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player6
+144634,16,297849,T,Team2,69,0,True,-791,97,83,['Pistols'],0.0,700,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player6
+144635,16,297865,T,Team2,69,0,True,-770,88,73,['Pistols'],0.0,700,BombsiteB,29,00:12,4,0,True,de_overpass,0.0,Player6
+144636,16,297881,T,Team2,69,0,True,-747,75,61,['Pistols'],0.0,700,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player6
+144637,16,297897,T,Team2,69,0,True,-722,60,49,['Pistols'],0.0,700,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player6
+144638,16,297913,T,Team2,69,0,True,-700,41,38,['Pistols'],0.0,700,BombsiteB,29,00:11,4,0,True,de_overpass,0.0,Player6
+153520,28,482620,T,Team2,12,84,True,-717,-3,47,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,28,01:27,5,3,False,de_overpass,0.0,Player6
+153521,28,482636,T,Team2,12,84,True,-737,14,57,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,28,01:27,5,3,False,de_overpass,0.0,Player6
+153522,28,482652,T,Team2,12,84,True,-755,34,65,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,28,01:27,5,3,False,de_overpass,0.0,Player6
+153523,28,482668,T,Team2,12,84,True,-774,52,75,"['Grenade', 'Pistols', 'Rifle']",1.0,5000,BombsiteB,28,01:27,5,3,False,de_overpass,0.0,Player6
+153524,28,482684,T,Team2,12,84,True,-792,71,84,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,29,01:27,5,3,False,de_overpass,0.0,Player6
+153525,28,482700,T,Team2,12,84,True,-805,94,91,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,29,01:27,5,3,False,de_overpass,0.0,Player6
+153526,28,482716,T,Team2,12,84,True,-810,119,93,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,29,01:27,5,3,False,de_overpass,0.0,Player6
+153527,28,482732,T,Team2,12,84,True,-809,145,92,"['Rifle', 'Grenade', 'Pistols']",1.0,5000,BombsiteB,29,01:27,5,3,False,de_overpass,0.0,Player6
+153528,28,482748,T,Team2,12,84,True,-807,171,92,"['Grenade', 'Pistols', 'Rifle']",1.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player6
+153529,28,482764,T,Team2,12,84,True,-815,194,96,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player6
+153530,28,482780,T,Team2,12,84,True,-823,219,96,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player6
+153531,28,482796,T,Team2,12,84,True,-830,245,96,"['Rifle', 'Grenade', 'Pistols']",1.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player6
+153532,28,482812,T,Team2,12,84,True,-842,268,96,"['Pistols', 'Rifle', 'Grenade']",1.0,5000,BombsiteB,30,01:26,5,3,False,de_overpass,0.0,Player6
+188576,16,292664,T,Team2,100,100,True,-956,-265,96,['Pistols'],0.0,850,BombsiteB,45,01:10,5,5,False,de_overpass,0.0,Player8
+188577,16,292680,T,Team2,100,100,True,-947,-238,96,['Pistols'],0.0,850,BombsiteB,45,01:10,5,5,False,de_overpass,0.0,Player8
+188578,16,292696,T,Team2,100,100,True,-945,-207,96,['Pistols'],0.0,850,BombsiteB,45,01:10,5,5,False,de_overpass,0.0,Player8
+188579,16,292712,T,Team2,100,100,True,-949,-182,96,['Pistols'],0.0,850,BombsiteB,46,01:10,5,5,False,de_overpass,0.0,Player8
+188580,16,292728,T,Team2,100,100,True,-948,-153,96,['Pistols'],0.0,850,BombsiteB,46,01:10,5,5,False,de_overpass,0.0,Player8
+188581,16,292744,T,Team2,100,100,True,-936,-131,96,['Pistols'],0.0,850,BombsiteB,46,01:10,5,4,False,de_overpass,0.0,Player8
+188582,16,292760,T,Team2,82,90,True,-927,-113,96,['Pistols'],0.0,850,BombsiteB,46,01:10,5,4,False,de_overpass,0.0,Player8
+188583,16,292776,T,Team2,82,90,True,-926,-105,96,['Pistols'],0.0,850,BombsiteB,46,01:09,5,4,False,de_overpass,0.0,Player8
+188584,16,292792,T,Team2,68,82,True,-925,-105,96,['Pistols'],0.0,850,BombsiteB,46,01:09,5,4,False,de_overpass,0.0,Player8
+188585,16,292808,T,Team2,68,82,True,-925,-98,96,['Pistols'],0.0,850,BombsiteB,46,01:09,5,4,False,de_overpass,0.0,Player8
+188586,16,292824,T,Team2,68,82,True,-924,-87,96,['Pistols'],0.0,850,BombsiteB,46,01:09,5,4,False,de_overpass,0.0,Player8
+188587,16,292840,T,Team2,54,74,True,-924,-75,96,['Pistols'],0.0,850,BombsiteB,47,01:09,5,4,False,de_overpass,0.0,Player8
+188588,16,292856,T,Team2,54,74,True,-924,-71,96,['Pistols'],0.0,850,BombsiteB,47,01:09,5,4,False,de_overpass,0.0,Player8
+191663,21,358856,T,Team2,94,100,True,-897,-297,96,"['Rifle', 'Pistols', 'Grenade']",1.0,4450,BombsiteB,19,01:37,5,5,False,de_overpass,0.0,Player8
+191664,21,358872,T,Team2,94,100,True,-889,-271,96,"['Grenade', 'Rifle', 'Pistols']",1.0,4450,BombsiteB,19,01:36,4,5,False,de_overpass,0.0,Player8
+191665,21,358888,T,Team2,94,100,True,-882,-245,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,19,01:36,4,5,False,de_overpass,0.0,Player8
+191666,21,358904,T,Team2,94,100,True,-878,-219,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,19,01:36,4,5,False,de_overpass,0.0,Player8
+191667,21,358920,T,Team2,94,100,True,-880,-193,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,19,01:36,4,5,False,de_overpass,0.0,Player8
+191668,21,358936,T,Team2,94,100,True,-883,-166,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,20,01:36,4,5,False,de_overpass,0.0,Player8
+191669,21,358952,T,Team2,94,100,True,-882,-139,96,"['Grenade', 'Rifle', 'Pistols']",1.0,4450,BombsiteB,20,01:36,4,5,False,de_overpass,0.0,Player8
+191670,21,358968,T,Team2,94,100,True,-877,-113,96,"['Grenade', 'Rifle', 'Pistols']",1.0,4450,BombsiteB,20,01:36,4,5,False,de_overpass,0.0,Player8
+191671,21,358984,T,Team2,94,100,True,-868,-88,96,"['Grenade', 'Rifle', 'Pistols']",1.0,4450,BombsiteB,20,01:36,4,5,False,de_overpass,0.0,Player8
+191672,21,359000,T,Team2,60,94,True,-864,-78,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,20,01:35,4,5,False,de_overpass,0.0,Player8
+191673,21,359016,T,Team2,33,89,True,-861,-70,96,"['Pistols', 'Grenade', 'Rifle']",1.0,4450,BombsiteB,20,01:35,4,5,False,de_overpass,0.0,Player8
+197794,28,482748,T,Team2,18,94,True,-721,-15,49,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player8
+197795,28,482764,T,Team2,18,94,True,-746,-11,61,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player8
+197796,28,482780,T,Team2,18,94,True,-772,-10,74,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player8
+197797,28,482796,T,Team2,18,94,True,-798,-9,87,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,29,01:26,5,3,False,de_overpass,0.0,Player8
+197798,28,482812,T,Team2,18,94,True,-824,-12,96,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,30,01:26,5,3,False,de_overpass,0.0,Player8
+197799,28,482828,T,Team2,18,94,True,-849,-23,96,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,30,01:26,4,3,False,de_overpass,0.0,Player8
+197800,28,482844,T,Team2,18,94,True,-872,-33,96,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,30,01:26,4,3,False,de_overpass,0.0,Player8
+197801,28,482860,T,Team2,18,94,True,-896,-41,96,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,30,01:26,4,3,False,de_overpass,0.0,Player8
+197802,28,482876,T,Team2,18,94,True,-921,-50,96,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,30,01:25,4,3,False,de_overpass,0.0,Player8
+197803,28,482892,T,Team2,18,94,True,-949,-58,96,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,30,01:25,4,3,False,de_overpass,0.0,Player8
+197804,28,482908,T,Team2,18,94,True,-975,-64,96,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,30,01:25,4,3,False,de_overpass,0.0,Player8
+197805,28,482924,T,Team2,18,94,True,-1001,-69,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,30,01:25,4,3,False,de_overpass,0.0,Player8
+197806,28,482940,T,Team2,18,94,True,-1026,-72,99,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:25,4,3,False,de_overpass,0.0,Player8
+197807,28,482956,T,Team2,18,94,True,-1055,-75,99,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:25,4,3,False,de_overpass,0.0,Player8
+197808,28,482972,T,Team2,18,94,True,-1081,-75,99,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:25,4,3,False,de_overpass,0.0,Player8
+197809,28,482988,T,Team2,18,94,True,-1106,-74,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:25,4,3,False,de_overpass,0.0,Player8
+197810,28,483004,T,Team2,18,94,True,-1127,-81,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:24,4,3,False,de_overpass,0.0,Player8
+197811,28,483020,T,Team2,18,94,True,-1148,-93,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:24,4,3,False,de_overpass,0.0,Player8
+197813,28,483052,T,Team2,18,94,True,-1166,-96,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,31,01:24,4,3,False,de_overpass,0.0,Player8
+197814,28,483068,T,Team2,18,94,True,-1166,-95,98,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,32,01:24,4,3,False,de_overpass,0.0,Player8
+197819,28,483148,T,Team2,18,94,True,-1166,-92,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,32,01:23,4,3,False,de_overpass,0.0,Player8
+197820,28,483164,T,Team2,18,94,True,-1166,-93,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,32,01:23,4,3,False,de_overpass,0.0,Player8
+197821,28,483180,T,Team2,18,94,True,-1166,-93,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,32,01:23,4,3,False,de_overpass,0.0,Player8
+197825,28,483244,T,Team2,18,94,True,-1167,-92,128,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:23,4,3,False,de_overpass,0.0,Player8
+197826,28,483260,T,Team2,18,94,True,-1172,-88,152,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player8
+197827,28,483276,T,Team2,18,94,True,-1177,-84,154,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player8
+197828,28,483292,T,Team2,18,94,True,-1177,-79,155,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player8
+197829,28,483308,T,Team2,18,94,True,-1176,-73,146,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,33,01:22,4,3,False,de_overpass,0.0,Player8
+197830,28,483324,T,Team2,18,94,True,-1172,-79,125,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player8
+197831,28,483340,T,Team2,18,94,True,-1166,-91,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,34,01:22,4,3,False,de_overpass,0.0,Player8
+197836,28,483420,T,Team2,18,94,True,-1166,-95,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player8
+197837,28,483436,T,Team2,18,94,True,-1165,-72,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,34,01:21,3,3,False,de_overpass,0.0,Player8
+197838,28,483452,T,Team2,18,94,True,-1159,-49,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player8
+197839,28,483468,T,Team2,18,94,True,-1147,-28,99,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player8
+197840,28,483484,T,Team2,18,94,True,-1131,-6,99,"['Rifle', 'Pistols']",0.0,5000,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player8
+197841,28,483500,T,Team2,18,94,True,-1116,15,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,35,01:21,3,3,False,de_overpass,0.0,Player8
+197842,28,483516,T,Team2,18,94,True,-1108,24,98,"['Pistols', 'Rifle']",0.0,5000,BombsiteB,35,01:20,3,3,False,de_overpass,0.0,Player8
+199148,30,513452,T,Team2,42,100,True,-1001,-248,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:20,3,4,False,de_overpass,0.0,Player8
+199149,30,513468,T,Team2,42,100,True,-1004,-223,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:20,3,4,False,de_overpass,0.0,Player8
+199150,30,513484,T,Team2,42,100,True,-1016,-201,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:19,3,4,False,de_overpass,0.0,Player8
+199151,30,513500,T,Team2,42,100,True,-1035,-187,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:19,3,4,False,de_overpass,0.0,Player8
+199152,30,513516,T,Team2,42,100,True,-1059,-178,99,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:19,3,4,False,de_overpass,0.0,Player8
+199153,30,513532,T,Team2,42,100,True,-1080,-164,99,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,36,01:19,3,4,False,de_overpass,0.0,Player8
+199154,30,513548,T,Team2,42,100,True,-1100,-147,99,"['Rifle', 'Pistols']",0.0,3500,BombsiteB,37,01:19,3,4,False,de_overpass,0.0,Player8
+199155,30,513564,T,Team2,42,100,True,-1117,-137,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:19,3,4,False,de_overpass,0.0,Player8
+199156,30,513580,T,Team2,42,100,True,-1126,-133,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:19,3,4,False,de_overpass,0.0,Player8
+199157,30,513596,T,Team2,42,100,True,-1128,-130,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:19,3,4,False,de_overpass,0.0,Player8
+199158,30,513612,T,Team2,42,100,True,-1128,-130,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:18,3,4,False,de_overpass,0.0,Player8
+199159,30,513628,T,Team2,42,100,True,-1128,-129,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:18,3,4,False,de_overpass,0.0,Player8
+199160,30,513644,T,Team2,42,100,True,-1128,-128,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,37,01:18,3,4,False,de_overpass,0.0,Player8
+199161,30,513660,T,Team2,42,100,True,-1127,-125,98,"['Rifle', 'Pistols']",0.0,3500,BombsiteB,37,01:18,3,4,False,de_overpass,0.0,Player8
+199162,30,513676,T,Team2,42,100,True,-1126,-111,98,"['Rifle', 'Pistols']",0.0,3500,BombsiteB,38,01:18,3,4,False,de_overpass,0.0,Player8
+199163,30,513692,T,Team2,42,100,True,-1129,-93,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,38,01:18,3,4,False,de_overpass,0.0,Player8
+199164,30,513708,T,Team2,42,100,True,-1136,-84,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,38,01:18,3,4,False,de_overpass,0.0,Player8
+199165,30,513724,T,Team2,42,100,True,-1147,-81,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,38,01:18,3,4,False,de_overpass,0.0,Player8
+199166,30,513740,T,Team2,42,100,True,-1161,-81,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,38,01:17,3,4,False,de_overpass,0.0,Player8
+199167,30,513756,T,Team2,42,100,True,-1166,-87,98,"['Pistols', 'Rifle']",0.0,3500,BombsiteB,38,01:17,3,4,False,de_overpass,0.0,Player8
+199168,30,513772,T,Team2,42,100,True,-1166,-96,98,"['Rifle', 'Pistols']",0.0,3500,BombsiteB,38,01:17,3,4,False,de_overpass,0.0,Player8
+210729,16,292984,T,Team2,100,100,True,-1065,-217,99,['Pistols'],0.0,850,BombsiteB,48,01:08,4,4,False,de_overpass,0.0,Player9
+210730,16,293000,T,Team2,100,100,True,-1081,-196,99,['Pistols'],0.0,850,BombsiteB,48,01:08,4,4,False,de_overpass,0.0,Player9
+210731,16,293016,T,Team2,100,100,True,-1094,-168,99,['Pistols'],0.0,850,BombsiteB,48,01:08,4,4,False,de_overpass,0.0,Player9
+210732,16,293032,T,Team2,100,100,True,-1109,-145,99,['Pistols'],0.0,850,BombsiteB,48,01:07,4,4,False,de_overpass,0.0,Player9
+210733,16,293048,T,Team2,100,100,True,-1125,-121,98,['Pistols'],0.0,850,BombsiteB,48,01:07,4,3,False,de_overpass,0.0,Player9
+210734,16,293064,T,Team2,100,100,True,-1147,-98,98,['Pistols'],0.0,850,BombsiteB,48,01:07,4,3,False,de_overpass,0.0,Player9
+210735,16,293080,T,Team2,100,100,True,-1165,-84,98,['Pistols'],0.0,850,BombsiteB,48,01:07,4,3,False,de_overpass,0.0,Player9
+210736,16,293096,T,Team2,100,100,True,-1166,-80,98,['Pistols'],0.0,850,BombsiteB,49,01:07,4,3,False,de_overpass,0.0,Player9
+210737,16,293112,T,Team2,100,100,True,-1165,-66,98,['Pistols'],0.0,850,BombsiteB,49,01:07,4,3,False,de_overpass,0.0,Player9
+210738,16,293128,T,Team2,100,100,True,-1163,-44,98,['Pistols'],0.0,850,BombsiteB,49,01:07,4,3,False,de_overpass,0.0,Player9
+210739,16,293144,T,Team2,100,100,True,-1161,-19,99,['Pistols'],0.0,850,BombsiteB,49,01:07,4,3,False,de_overpass,0.0,Player9
+210740,16,293160,T,Team2,100,100,True,-1158,9,99,['Pistols'],0.0,850,BombsiteB,49,01:06,4,3,False,de_overpass,0.0,Player9
+210741,16,293176,T,Team2,100,100,True,-1163,36,99,['Pistols'],0.0,850,BombsiteB,49,01:06,4,3,False,de_overpass,0.0,Player9
+210742,16,293192,T,Team2,100,100,True,-1175,59,99,['Pistols'],0.0,850,BombsiteB,49,01:06,4,3,False,de_overpass,0.0,Player9
+210743,16,293208,T,Team2,100,100,True,-1184,76,99,['Pistols'],0.0,850,BombsiteB,49,01:06,4,3,False,de_overpass,0.0,Player9
+210744,16,293224,T,Team2,100,100,True,-1189,85,99,['Pistols'],0.0,850,BombsiteB,50,01:06,4,3,False,de_overpass,0.0,Player9
+210745,16,293240,T,Team2,100,100,True,-1191,89,99,['Pistols'],0.0,850,BombsiteB,50,01:06,4,3,False,de_overpass,0.0,Player9
+210746,16,293256,T,Team2,100,100,True,-1191,88,99,['Pistols'],0.0,850,BombsiteB,50,01:06,4,3,False,de_overpass,0.0,Player9
+210747,16,293272,T,Team2,100,100,True,-1195,94,99,['Pistols'],0.0,850,BombsiteB,50,01:06,4,3,False,de_overpass,0.0,Player9
+210748,16,293288,T,Team2,100,100,True,-1197,97,99,['Pistols'],0.0,850,BombsiteB,50,01:05,4,3,False,de_overpass,0.0,Player9
+210749,16,293304,T,Team2,100,100,True,-1203,106,99,['Pistols'],0.0,850,BombsiteB,50,01:05,4,3,False,de_overpass,0.0,Player9
+210750,16,293320,T,Team2,100,100,True,-1200,102,99,['Pistols'],0.0,850,BombsiteB,50,01:05,4,3,False,de_overpass,0.0,Player9
+210751,16,293336,T,Team2,100,100,True,-1196,86,99,['Pistols'],0.0,850,BombsiteB,50,01:05,4,3,False,de_overpass,0.0,Player9
+210752,16,293352,T,Team2,100,100,True,-1196,62,99,['Pistols'],0.0,850,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player9
+210753,16,293368,T,Team2,100,100,True,-1205,39,99,['Pistols'],0.0,850,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player9
+210754,16,293384,T,Team2,100,100,True,-1223,25,125,['Pistols'],0.0,850,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player9
+210755,16,293400,T,Team2,100,100,True,-1246,18,146,['Pistols'],0.0,850,BombsiteB,51,01:05,4,3,False,de_overpass,0.0,Player9
+210756,16,293416,T,Team2,100,100,True,-1271,13,155,['Pistols'],0.0,850,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player9
+210757,16,293432,T,Team2,100,100,True,-1295,1,150,['Pistols'],0.0,850,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player9
+210758,16,293448,T,Team2,100,100,True,-1309,-22,142,['Pistols'],0.0,850,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player9
+210759,16,293464,T,Team2,100,100,True,-1319,-46,114,['Pistols'],0.0,850,BombsiteB,51,01:04,4,3,False,de_overpass,0.0,Player9
+220007,28,484028,T,Team2,72,100,True,-1089,-169,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player9
+220008,28,484044,T,Team2,72,100,True,-1097,-158,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player9
+220009,28,484060,T,Team2,72,100,True,-1110,-159,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player9
+220010,28,484076,T,Team2,72,100,True,-1108,-160,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,39,01:16,2,2,False,de_overpass,0.0,Player9
+220011,28,484092,T,Team2,72,100,True,-1108,-149,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player9
+220012,28,484108,T,Team2,72,100,True,-1116,-136,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player9
+220013,28,484124,T,Team2,72,100,True,-1122,-115,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player9
+220014,28,484140,T,Team2,72,100,True,-1121,-93,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,40,01:16,2,2,False,de_overpass,0.0,Player9
+220015,28,484156,T,Team2,72,100,True,-1112,-71,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player9
+220016,28,484172,T,Team2,72,100,True,-1098,-49,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player9
+220017,28,484188,T,Team2,72,100,True,-1083,-28,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player9
+220018,28,484204,T,Team2,72,100,True,-1074,-4,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,40,01:15,2,2,False,de_overpass,0.0,Player9
+220019,28,484220,T,Team2,72,100,True,-1072,24,98,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player9
+220020,28,484236,T,Team2,72,100,True,-1074,51,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player9
+220021,28,484252,T,Team2,72,100,True,-1073,75,98,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player9
+220022,28,484268,T,Team2,72,100,True,-1069,101,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,41,01:15,2,2,False,de_overpass,0.0,Player9
+220023,28,484284,T,Team2,72,100,True,-1068,129,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player9
+220024,28,484300,T,Team2,72,100,True,-1062,153,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player9
+220025,28,484316,T,Team2,72,100,True,-1059,181,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player9
+220026,28,484332,T,Team2,72,100,True,-1061,205,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,41,01:14,2,2,False,de_overpass,0.0,Player9
+220027,28,484348,T,Team2,72,100,True,-1063,231,99,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player9
+220028,28,484364,T,Team2,72,100,True,-1067,249,99,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player9
+220029,28,484380,T,Team2,72,100,True,-1071,262,80,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player9
+220030,28,484396,T,Team2,72,100,True,-1080,268,76,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,42,01:14,2,2,False,de_overpass,0.0,Player9
+220031,28,484412,T,Team2,72,100,True,-1092,272,70,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player9
+220032,28,484428,T,Team2,72,100,True,-1104,279,64,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player9
+220033,28,484444,T,Team2,72,100,True,-1109,289,62,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player9
+220034,28,484460,T,Team2,72,100,True,-1109,302,62,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,42,01:13,2,2,False,de_overpass,0.0,Player9
+220035,28,484476,T,Team2,72,100,True,-1108,316,62,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,43,01:13,2,2,False,de_overpass,0.0,Player9
+220036,28,484492,T,Team2,72,100,True,-1111,322,61,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player9
+220037,28,484508,T,Team2,72,100,True,-1119,321,57,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player9
+220038,28,484524,T,Team2,72,100,True,-1131,320,51,"['Pistols', 'Rifle', 'Grenade']",1.0,4450,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player9
+220039,28,484540,T,Team2,72,100,True,-1143,321,45,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,0,00:40,2,2,True,de_overpass,0.0,Player9
+220045,28,484636,T,Team2,72,100,True,-1142,331,45,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player9
+220046,28,484652,T,Team2,72,100,True,-1137,352,48,"['Grenade', 'Pistols', 'Rifle']",1.0,4450,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player9
+220047,28,484668,T,Team2,72,100,True,-1132,375,54,"['Rifle', 'Grenade', 'Pistols']",1.0,4450,BombsiteB,1,00:39,2,2,True,de_overpass,0.0,Player9

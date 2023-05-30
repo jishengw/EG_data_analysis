@@ -27,10 +27,7 @@ def question3():
     state.filter_by_team_name("Team2")
     state.filter_by_area_name("BombsiteB")
     state.generate_heatmap()
-    state.plot_point()
     # state.plot_point()
-    # boundary_xy = [[-5000,-5000],[5000,-5000],[5000,5000][-5000,5000],]
-    # boundary_z = [-500,500]
-    # state.check_if_any_row_in_boundary(boundary_xy,boundary_z)
+    state.write_to_csv("result3.csv")
 
 question3()
